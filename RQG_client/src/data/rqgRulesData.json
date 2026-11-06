@@ -1,0 +1,5420 @@
+{
+  "homelands": {
+    "Sartar": {
+      "name": "Sartar",
+      "elementalRuneBonus": {
+        "Air": 10
+      },
+      "statModifiers": {},
+      "passions": [
+        {
+          "name": "Love (Family)",
+          "value": 60
+        },
+        {
+          "name": "Loyalty (Clan)",
+          "value": 60
+        },
+        {
+          "name": "Loyalty (Tribe)",
+          "value": 60
+        }
+      ],
+      "skills": {
+        "Ride (any)": 5,
+        "Dance": 5,
+        "Sing": 10,
+        "Speak (Heortling)": 50,
+        "Speak (Tradetalk)": 10,
+        "Customs (Heortling)": 25,
+        "Farm": 20,
+        "Herd": 10,
+        "Spirit Combat": 15
+      },
+      "culturalWeapons": [
+        {
+          "name": "Dagger",
+          "bonus": 10
+        },
+        {
+          "name": "1H Axe (Battle Axe)",
+          "bonus": 10
+        },
+        {
+          "name": "1H Spear",
+          "bonus": 10
+        },
+        {
+          "name": "Broadsword",
+          "bonus": 15
+        },
+        {
+          "name": "Composite Bow or Sling",
+          "options": [
+            {
+              "name": "Composite Bow",
+              "bonus": 10
+            },
+            {
+              "name": "Sling",
+              "bonus": 10
+            }
+          ]
+        },
+        {
+          "name": "Javelin",
+          "bonus": 10
+        },
+        {
+          "name": "Medium Shield",
+          "bonus": 15
+        },
+        {
+          "name": "Large Shield",
+          "bonus": 10
+        }
+      ],
+      "notes": "Mountainous kingdom of storm worshippers and hardy freedom-fighters."
+    },
+    "Esrolia": {
+      "name": "Esrolia",
+      "elementalRuneBonus": {
+        "Earth": 10
+      },
+      "statModifiers": {},
+      "passions": [
+        {
+          "name": "Love (Family)",
+          "value": 60
+        },
+        {
+          "name": "Loyalty (City)",
+          "value": 60
+        },
+        {
+          "name": "Loyalty (Clan)",
+          "value": 60
+        }
+      ],
+      "skills": {
+        "Bargain": 5,
+        "Dance": 10,
+        "Intrigue": 5,
+        "Sing": 5,
+        "Speak (Esrolian)": 50,
+        "Speak (Tradetalk)": 20,
+        "Customs (Esrolian)": 25,
+        "Farm": 25,
+        "First Aid": 5,
+        "Spirit Combat": 15
+      },
+      "culturalWeapons": [
+        {
+          "name": "1H Axe (Battle Axe)",
+          "bonus": 15
+        },
+        {
+          "name": "1H Spear",
+          "bonus": 10
+        },
+        {
+          "name": "Rapier",
+          "bonus": 10
+        },
+        {
+          "name": "Self Bow",
+          "bonus": 10
+        },
+        {
+          "name": "Thrown Axe",
+          "bonus": 10
+        },
+        {
+          "name": "Small Shield",
+          "bonus": 15
+        },
+        {
+          "name": "Medium Shield",
+          "bonus": 15
+        },
+        {
+          "name": "Large Shield",
+          "bonus": 10
+        }
+      ],
+      "notes": "Rich matriarchal land ruled by the Queens of Nochet and Priestesses of Ernalda."
+    },
+    "Grazelands": {
+      "name": "Grazelands",
+      "elementalRuneBonus": {
+        "Fire/Sky": 10
+      },
+      "statModifiers": {},
+      "passions": [
+        {
+          "name": "Love (Family)",
+          "value": 60
+        },
+        {
+          "name": "Loyalty (Clan)",
+          "value": 60
+        },
+        {
+          "name": "Loyalty (Feathered Horse Queen)",
+          "value": 60
+        }
+      ],
+      "skills": {
+        "Ride (Horse)": 35,
+        "Speak (Pure Horse Tongue)": 50,
+        "Speak (Tradetalk)": 10,
+        "Customs (Grazeland Pony Breeders)": 25,
+        "Herd": 35,
+        "Spirit Combat": 15
+      },
+      "culturalWeapons": [
+        {
+          "name": "Dagger",
+          "bonus": 10
+        },
+        {
+          "name": "Lance",
+          "bonus": 15
+        },
+        {
+          "name": "Broadsword",
+          "bonus": 10
+        },
+        {
+          "name": "Composite Bow",
+          "bonus": 15
+        },
+        {
+          "name": "Small Shield",
+          "bonus": 15
+        },
+        {
+          "name": "Medium Shield",
+          "bonus": 10
+        }
+      ],
+      "notes": "Proud nomad horse breeders ruled by the Feathered Horse Queen."
+    },
+    "Prax (Bison Rider)": {
+      "name": "Prax (Bison Rider)",
+      "elementalRuneBonus": {
+        "Air": 10
+      },
+      "statModifiers": {
+        "SIZ": 2,
+        "DEX": -2
+      },
+      "passions": [
+        {
+          "name": "Love (Family)",
+          "value": 60
+        },
+        {
+          "name": "Loyalty (Tribe)",
+          "value": 60
+        }
+      ],
+      "skills": {
+        "Speak (Praxian)": 50,
+        "Speak (Tradetalk)": 10,
+        "Survival": 10,
+        "Ride (Bison)": 35,
+        "Customs (Bison Tribe)": 25,
+        "Herd": 30,
+        "Peaceful Cut": 15,
+        "Spirit Combat": 20
+      },
+      "culturalWeapons": [
+        {
+          "name": "Dagger",
+          "bonus": 10
+        },
+        {
+          "name": "Lance",
+          "bonus": 15
+        },
+        {
+          "name": "Broadsword",
+          "bonus": 10
+        },
+        {
+          "name": "Javelin",
+          "bonus": 10
+        },
+        {
+          "name": "Medium Shield",
+          "bonus": 10
+        }
+      ],
+      "notes": "Massive pastoral nomads mounted upon great beasts of the plains."
+    },
+    "Prax (High Llama Rider)": {
+      "name": "Prax (High Llama Rider)",
+      "elementalRuneBonus": {
+        "Water": 10
+      },
+      "statModifiers": {
+        "SIZ": 1,
+        "DEX": -1
+      },
+      "passions": [
+        {
+          "name": "Love (Family)",
+          "value": 60
+        },
+        {
+          "name": "Loyalty (Tribe)",
+          "value": 60
+        }
+      ],
+      "skills": {
+        "Speak (Praxian)": 50,
+        "Speak (Tradetalk)": 10,
+        "Survival": 10,
+        "Ride (High Llama)": 35,
+        "Customs (High Llama Tribe)": 25,
+        "Herd": 30,
+        "Peaceful Cut": 15,
+        "Spirit Combat": 20
+      },
+      "culturalWeapons": [
+        {
+          "name": "Dagger",
+          "bonus": 10
+        },
+        {
+          "name": "Lance",
+          "bonus": 15
+        },
+        {
+          "name": "2H Dagger-Axe",
+          "bonus": 10
+        },
+        {
+          "name": "Pole Lasso",
+          "bonus": 10
+        }
+      ],
+      "notes": "Tall, dignified nomads riding towering high llamas across the Chaparral."
+    },
+    "Prax (Impala Rider)": {
+      "name": "Prax (Impala Rider)",
+      "elementalRuneBonus": {
+        "Fire/Sky": 10
+      },
+      "statModifiers": {
+        "SIZ": -2,
+        "DEX": 2
+      },
+      "passions": [
+        {
+          "name": "Love (Family)",
+          "value": 60
+        },
+        {
+          "name": "Loyalty (Tribe)",
+          "value": 60
+        }
+      ],
+      "skills": {
+        "Speak (Praxian)": 50,
+        "Speak (Tradetalk)": 10,
+        "Survival": 10,
+        "Ride (Impala)": 35,
+        "Customs (Impala Tribe)": 25,
+        "Herd": 30,
+        "Peaceful Cut": 15,
+        "Spirit Combat": 20
+      },
+      "culturalWeapons": [
+        {
+          "name": "Dagger",
+          "bonus": 5
+        },
+        {
+          "name": "Shortsword",
+          "bonus": 10
+        },
+        {
+          "name": "Composite Bow",
+          "bonus": 20
+        },
+        {
+          "name": "Dart",
+          "bonus": 10
+        },
+        {
+          "name": "Small Shield",
+          "bonus": 10
+        }
+      ],
+      "notes": "Nimble, numerous pygmies of Prax deadly with missile bows."
+    },
+    "Prax (Pol-Joni)": {
+      "name": "Prax (Pol-Joni)",
+      "elementalRuneBonus": {
+        "Air": 10
+      },
+      "statModifiers": {},
+      "passions": [
+        {
+          "name": "Love (Family)",
+          "value": 60
+        },
+        {
+          "name": "Loyalty (Tribe)",
+          "value": 60
+        }
+      ],
+      "skills": {
+        "Speak (Praxian)": 50,
+        "Speak (Tradetalk)": 10,
+        "Survival": 10,
+        "Ride (Horse)": 35,
+        "Customs (Pol-Joni)": 25,
+        "Herd": 30,
+        "Peaceful Cut": 15,
+        "Spirit Combat": 20
+      },
+      "culturalWeapons": [
+        {
+          "name": "Dagger",
+          "bonus": 10
+        },
+        {
+          "name": "Lance",
+          "bonus": 10
+        },
+        {
+          "name": "Broadsword",
+          "bonus": 15
+        },
+        {
+          "name": "Composite Bow",
+          "bonus": 10
+        },
+        {
+          "name": "Medium Shield",
+          "bonus": 15
+        }
+      ],
+      "notes": "The horse-riding Bastard Tribe of Prax, Heortling outcasts sworn to Storm Bull and Orlanth."
+    },
+    "Prax (Sable Rider)": {
+      "name": "Prax (Sable Rider)",
+      "elementalRuneBonus": {
+        "Moon": 10
+      },
+      "statModifiers": {},
+      "passions": [
+        {
+          "name": "Love (Family)",
+          "value": 60
+        },
+        {
+          "name": "Loyalty (Tribe)",
+          "value": 60
+        }
+      ],
+      "skills": {
+        "Speak (Praxian)": 50,
+        "Speak (Tradetalk)": 10,
+        "Survival": 10,
+        "Ride (Sable Antelope)": 35,
+        "Customs (Sable Tribe)": 25,
+        "Herd": 30,
+        "Peaceful Cut": 15,
+        "Spirit Combat": 20
+      },
+      "culturalWeapons": [
+        {
+          "name": "Dagger",
+          "bonus": 10
+        },
+        {
+          "name": "Kopis or 1H Axe",
+          "options": [
+            {
+              "name": "Kopis",
+              "bonus": 15
+            },
+            {
+              "name": "1H Axe (Battle Axe)",
+              "bonus": 15
+            }
+          ]
+        },
+        {
+          "name": "Lance or Short Spear",
+          "options": [
+            {
+              "name": "Lance",
+              "bonus": 10
+            },
+            {
+              "name": "1H Spear",
+              "bonus": 10
+            }
+          ]
+        },
+        {
+          "name": "Composite Bow or Javelin",
+          "options": [
+            {
+              "name": "Composite Bow",
+              "bonus": 10
+            },
+            {
+              "name": "Javelin",
+              "bonus": 10
+            }
+          ]
+        },
+        {
+          "name": "Medium Shield",
+          "bonus": 10
+        }
+      ],
+      "notes": "Antelope riders who allied with the Lunar Empire during the conquest of Prax."
+    },
+    "Lunar Tarsh": {
+      "name": "Lunar Tarsh",
+      "elementalRuneBonus": {
+        "Moon": 10
+      },
+      "statModifiers": {},
+      "passions": [
+        {
+          "name": "Love (Family)",
+          "value": 60
+        },
+        {
+          "name": "Loyalty (City)",
+          "value": 60
+        },
+        {
+          "name": "Loyalty (Red Emperor)",
+          "value": 60
+        }
+      ],
+      "skills": {
+        "Dance": 5,
+        "Intrigue": 5,
+        "Speak (New Pelorian)": 50,
+        "Speak (Tarshite)": 20,
+        "Speak (Tradetalk)": 10,
+        "Celestial Lore": 5,
+        "Customs (Lunar Provincial)": 25,
+        "Farm": 25,
+        "Spirit Combat": 15
+      },
+      "culturalWeapons": [
+        {
+          "name": "Dagger",
+          "bonus": 10
+        },
+        {
+          "name": "1H Spear or 2H Spear",
+          "options": [
+            {
+              "name": "1H Spear",
+              "bonus": 15
+            },
+            {
+              "name": "2H Spear",
+              "bonus": 15
+            }
+          ]
+        },
+        {
+          "name": "Kopis",
+          "bonus": 10
+        },
+        {
+          "name": "Composite Bow or Sling",
+          "options": [
+            {
+              "name": "Composite Bow",
+              "bonus": 10
+            },
+            {
+              "name": "Sling",
+              "bonus": 10
+            }
+          ]
+        },
+        {
+          "name": "Javelin",
+          "bonus": 10
+        },
+        {
+          "name": "Medium Shield",
+          "bonus": 10
+        },
+        {
+          "name": "Large Shield",
+          "bonus": 15
+        }
+      ],
+      "notes": "Civilized, imperial province of the Lunar Empire worshipping the Red Goddess and Hon-Eel."
+    },
+    "Old Tarsh": {
+      "name": "Old Tarsh",
+      "elementalRuneBonus": {
+        "Earth": 10
+      },
+      "statModifiers": {},
+      "passions": [
+        {
+          "name": "Love (Family)",
+          "value": 60
+        },
+        {
+          "name": "Loyalty (Clan)",
+          "value": 60
+        },
+        {
+          "name": "Loyalty (Shaker Temple)",
+          "value": 60
+        }
+      ],
+      "skills": {
+        "Dance": 5,
+        "Ride": 5,
+        "Sing": 10,
+        "Speak (Tarshite)": 50,
+        "Speak (Tradetalk)": 10,
+        "Customs (Tarshite)": 25,
+        "Farm": 15,
+        "Survival": 5,
+        "Spirit Combat": 15
+      },
+      "culturalWeapons": [
+        {
+          "name": "Dagger",
+          "bonus": 10
+        },
+        {
+          "name": "1H Axe (Battle Axe)",
+          "bonus": 15
+        },
+        {
+          "name": "1H Spear",
+          "bonus": 10
+        },
+        {
+          "name": "Broadsword",
+          "bonus": 10
+        },
+        {
+          "name": "Composite Bow or Sling",
+          "options": [
+            {
+              "name": "Composite Bow",
+              "bonus": 10
+            },
+            {
+              "name": "Sling",
+              "bonus": 10
+            }
+          ]
+        },
+        {
+          "name": "Javelin",
+          "bonus": 10
+        },
+        {
+          "name": "Medium Shield",
+          "bonus": 15
+        },
+        {
+          "name": "Large Shield",
+          "bonus": 10
+        }
+      ],
+      "notes": "Traditionalist mountain Heortlings around Kero Fin holding to the Earthshaker and ancient ways."
+    }
+  },
+  "occupations": {
+    "Assistant Shaman": {
+      "name": "Assistant Shaman",
+      "homelands": [
+        "All"
+      ],
+      "skills": {
+        "Speak (Spiritspeech)": 20,
+        "Sing": 10,
+        "Spirit Combat": 20,
+        "Spirit Lore": 20,
+        "Meditate": 10,
+        "First Aid": 10,
+        "Plant Lore": 10,
+        "Animal Lore": 10
+      },
+      "standardOfLiving": "Poor",
+      "baseIncome": 30,
+      "ransom": 250,
+      "passions": [
+        "Loyalty (Shaman)",
+        "Devotion (deity)"
+      ],
+      "magic": "Can know 2 spirit magic spells from the shaman (e.g., Spirit Screen 1, Second Sight 1)",
+      "description": "An apprentice to a tribal or cult shaman, walking between the physical and spiritual worlds."
+    },
+    "Bandit": {
+      "name": "Bandit",
+      "homelands": [
+        "All (except Prax)"
+      ],
+      "skills": {
+        "Intimidate": 10,
+        "Hide": 30,
+        "First Aid": 10,
+        "Move Quietly": 30,
+        "Survival": 15,
+        "Cultural Weapon (1st)": 15,
+        "Cultural Weapon (2nd)": 10,
+        "Scan": 10
+      },
+      "standardOfLiving": "Destitute",
+      "baseIncome": 15,
+      "ransom": 0,
+      "passions": [
+        "Loyalty (Gang)",
+        "Hate (Authority)"
+      ],
+      "description": "Outlaws, bandits, and highway robbers living on the edges of society and preying on travelers."
+    },
+    "Chariot Driver": {
+      "name": "Chariot Driver",
+      "homelands": [
+        "Esrolia",
+        "Lunar Tarsh",
+        "Old Tarsh",
+        "Sartar"
+      ],
+      "skills": {
+        "Drive Chariot": 40,
+        "Animal Lore": 10,
+        "Battle": 20,
+        "First Aid": 10,
+        "Cultural Weapon (1st)": 15,
+        "Cultural Weapon (2nd)": 10,
+        "Scan": 10,
+        "Sing": 10
+      },
+      "standardOfLiving": "Free",
+      "baseIncome": 60,
+      "ransom": 500,
+      "passions": [
+        "Honor",
+        "Loyalty (Leader)"
+      ],
+      "description": "Skilled chariot pilots who bear nobles, priests, and champions into glorious combat."
+    },
+    "Crafter": {
+      "name": "Crafter",
+      "homelands": [
+        "All (except Prax)"
+      ],
+      "skills": {
+        "Craft (chosen)": 30,
+        "Evaluate": 10,
+        "Bargain": 10,
+        "Lore (local)": 10,
+        "Cultural Weapon (1st)": 10,
+        "Customs (local)": 10,
+        "Sing": 10
+      },
+      "standardOfLiving": "Free",
+      "baseIncome": 60,
+      "ransom": 500,
+      "passions": [
+        "Love (Family)",
+        "Loyalty (Guild)"
+      ],
+      "description": "Blacksmiths, potters, weavers, and masons who fashion the essential tools of Gloranthan civilization."
+    },
+    "Entertainer": {
+      "name": "Entertainer",
+      "homelands": [
+        "All"
+      ],
+      "skills": {
+        "Dance": 30,
+        "Sing": 30,
+        "Play Instrument": 30,
+        "Charm": 10,
+        "Fast Talk": 10,
+        "Cultural Weapon (1st)": 10,
+        "Insight": 10
+      },
+      "standardOfLiving": "Free",
+      "baseIncome": 60,
+      "ransom": 500,
+      "passions": [
+        "Love (Family)",
+        "Loyalty (Troupe)"
+      ],
+      "description": "Bards, dancers, storytellers, and actors preserving mythic tales and entertaining kings and commoners."
+    },
+    "Farmer": {
+      "name": "Farmer",
+      "homelands": [
+        "Esrolia",
+        "Lunar Tarsh",
+        "Old Tarsh",
+        "Sartar"
+      ],
+      "skills": {
+        "Farm": 35,
+        "Animal Lore": 10,
+        "First Aid": 10,
+        "Craft (any)": 10,
+        "Manage Household": 10,
+        "Cultural Weapon (1st)": 15,
+        "Cultural Weapon (2nd)": 10,
+        "Sing": 10
+      },
+      "standardOfLiving": "Free",
+      "baseIncome": 60,
+      "ransom": 500,
+      "passions": [
+        "Love (Family)",
+        "Loyalty (Clan)"
+      ],
+      "description": "The proud backbone of Gloranthan society, freeholders who work the fertile soil."
+    },
+    "Fisher": {
+      "name": "Fisher",
+      "homelands": [
+        "Esrolia",
+        "Lunar Tarsh",
+        "Old Tarsh",
+        "Sartar"
+      ],
+      "skills": {
+        "Boat": 30,
+        "Swim": 20,
+        "Peaceful Cut": 10,
+        "Survival": 10,
+        "Customs (local)": 10,
+        "Cultural Weapon (1st)": 15,
+        "Sing": 10
+      },
+      "standardOfLiving": "Poor",
+      "baseIncome": 30,
+      "ransom": 250,
+      "passions": [
+        "Love (Family)",
+        "Loyalty (Clan)"
+      ],
+      "description": "River and lake boatmen, fisherfolk who harvest the bounty of Engizi, the Creek, and the Mirrorsea."
+    },
+    "Healer": {
+      "name": "Healer",
+      "homelands": [
+        "All"
+      ],
+      "skills": {
+        "First Aid": 30,
+        "Treat Disease": 30,
+        "Treat Poison": 30,
+        "Plant Lore": 20,
+        "Sing": 10,
+        "Insight": 10,
+        "Speak (Tradetalk)": 10
+      },
+      "standardOfLiving": "Free",
+      "baseIncome": 60,
+      "ransom": 500,
+      "passions": [
+        "Devotion (Chalana Arroy or Ernalda)",
+        "Love (Family)"
+      ],
+      "description": "Dedicated healers and herbalists vowed to alleviate suffering and cure wounds and plagues."
+    },
+    "Herder": {
+      "name": "Herder",
+      "homelands": [
+        "All"
+      ],
+      "skills": {
+        "Herd": 35,
+        "Animal Lore": 20,
+        "Peaceful Cut": 15,
+        "Survival": 15,
+        "Listen": 10,
+        "Scan": 10,
+        "Cultural Weapon (1st)": 15,
+        "Sing": 10
+      },
+      "standardOfLiving": "Free",
+      "baseIncome": 60,
+      "ransom": 500,
+      "passions": [
+        "Love (Family)",
+        "Loyalty (Clan)"
+      ],
+      "description": "Cattle-drivers, sheep-herders, and beast-masters wandering the hills and grazing lands."
+    },
+    "Hunter": {
+      "name": "Hunter",
+      "homelands": [
+        "Grazelands",
+        "Old Tarsh",
+        "Prax",
+        "Sartar"
+      ],
+      "skills": {
+        "Track": 30,
+        "Peaceful Cut": 20,
+        "Hide": 20,
+        "Move Quietly": 20,
+        "Survival": 20,
+        "Scan": 10,
+        "Cultural Weapon (Missile)": 20,
+        "Cultural Weapon (Melee)": 10
+      },
+      "standardOfLiving": "Poor",
+      "baseIncome": 30,
+      "ransom": 250,
+      "passions": [
+        "Love (Family)",
+        "Loyalty (Clan)"
+      ],
+      "description": "Scouts, trappers, and bowmen attuned to the wild beasts and deep forests of Dragon Pass."
+    },
+    "Merchant": {
+      "name": "Merchant",
+      "homelands": [
+        "All"
+      ],
+      "skills": {
+        "Bargain": 30,
+        "Evaluate": 20,
+        "Speak (Tradetalk)": 30,
+        "Customs (any)": 15,
+        "Read/Write (any)": 10,
+        "Insight": 10,
+        "Cultural Weapon (1st)": 10
+      },
+      "standardOfLiving": "Free",
+      "baseIncome": 60,
+      "ransom": 500,
+      "passions": [
+        "Love (Family)",
+        "Loyalty (Guild or Cult)"
+      ],
+      "description": "Caravan masters and market traders who walk the dangerous roads with Issaries’ golden tongue."
+    },
+    "Noble": {
+      "name": "Noble",
+      "homelands": [
+        "All"
+      ],
+      "skills": {
+        "Orate": 20,
+        "Manage Household": 20,
+        "Customs (local)": 15,
+        "Read/Write (any)": 15,
+        "Battle": 10,
+        "Ride": 10,
+        "Cultural Weapon (1st)": 15,
+        "Insight": 10
+      },
+      "standardOfLiving": "Noble",
+      "baseIncome": 180,
+      "ransom": 1000,
+      "passions": [
+        "Honor",
+        "Loyalty (Leader or Tribe)"
+      ],
+      "description": "Chieftains, thanes, and aristocrats blessed by bloodline, charisma, and ancestral wealth."
+    },
+    "Philosopher": {
+      "name": "Philosopher",
+      "homelands": [
+        "All (Prax is only Pavis)"
+      ],
+      "skills": {
+        "Speak (any)": 20,
+        "Lore (any)": 20,
+        "Read/Write (any)": 25,
+        "Evaluate": 10,
+        "Meditate": 15,
+        "Orate": 15
+      },
+      "standardOfLiving": "Free",
+      "baseIncome": 60,
+      "ransom": 500,
+      "passions": [
+        "Loyalty (Academy or Temple)"
+      ],
+      "description": "Seekers of cosmic truth, logicians, and teachers of the Golden Age and God Learner principles."
+    },
+    "Priest": {
+      "name": "Priest",
+      "homelands": [
+        "All"
+      ],
+      "skills": {
+        "Cult Lore": 25,
+        "Worship (deity)": 25,
+        "Meditate": 20,
+        "Orate": 15,
+        "Customs (local)": 10,
+        "Sing": 10,
+        "Speak (Own)": 10
+      },
+      "standardOfLiving": "Noble",
+      "baseIncome": 180,
+      "ransom": 1000,
+      "passions": [
+        "Devotion (deity)",
+        "Loyalty (Temple)"
+      ],
+      "description": "Spiritual leaders and custodians of divine mysteries who maintain the rites of the gods."
+    },
+    "Scribe": {
+      "name": "Scribe",
+      "homelands": [
+        "Esrolia",
+        "Lunar Tarsh",
+        "Sartar"
+      ],
+      "skills": {
+        "Read/Write (Own)": 50,
+        "Read/Write (Other)": 25,
+        "Speak (Other)": 20,
+        "Library Use": 30,
+        "Customs (local)": 10,
+        "Manage Household": 10
+      },
+      "standardOfLiving": "Free",
+      "baseIncome": 60,
+      "ransom": 500,
+      "passions": [
+        "Loyalty (Employer or Temple)"
+      ],
+      "description": "Scholars, record-keepers, and archivists literate in arcane scrolls and tax registries."
+    },
+    "Thief": {
+      "name": "Thief",
+      "homelands": [
+        "Esrolia",
+        "Lunar Tarsh",
+        "Sartar"
+      ],
+      "skills": {
+        "Climb": 10,
+        "Devise": 10,
+        "Disguise": 30,
+        "Sleight": 30,
+        "Fast Talk": 30,
+        "Hide": 10,
+        "Move Quietly": 30,
+        "Cultural Weapon (1st)": 15
+      },
+      "standardOfLiving": "Poor",
+      "baseIncome": 30,
+      "ransom": 250,
+      "passions": [
+        "Love (Family)",
+        "Loyalty (Gang)"
+      ],
+      "description": "Pickpockets, roof-runners, and smugglers thriving in the shadows of Gloranthan cities."
+    },
+    "Warrior (Heavy Infantry)": {
+      "name": "Warrior (Heavy Infantry)",
+      "homelands": [
+        "Lunar Tarsh",
+        "Esrolia",
+        "Sartar"
+      ],
+      "skills": {
+        "Sing": 10,
+        "Scan": 10,
+        "Battle": 30,
+        "Unit Weapons": 25,
+        "First Aid": 15,
+        "Other Weapon": 25,
+        "Listen": 10
+      },
+      "standardOfLiving": "Free",
+      "baseIncome": 60,
+      "ransom": 500,
+      "passions": [
+        "Honor",
+        "Loyalty (Leader or Unit)"
+      ],
+      "armor": "Heavy scale hauberk (5 pts) or disk plate cuirass (5 pts), greaves (6 pts), closed helm (5 pts)",
+      "description": "Armored shock infantry forming stalwart shield walls and phalanxes."
+    },
+    "Warrior (Light Infantry)": {
+      "name": "Warrior (Light Infantry)",
+      "homelands": [
+        "Esrolia",
+        "Sartar",
+        "Old Tarsh",
+        "Lunar Tarsh"
+      ],
+      "skills": {
+        "Battle": 30,
+        "Hide": 10,
+        "First Aid": 15,
+        "Move Quietly": 10,
+        "Survival": 10,
+        "Unit Weapons": 25,
+        "Listen": 10,
+        "Other Weapon": 25,
+        "Scan": 10
+      },
+      "standardOfLiving": "Free",
+      "baseIncome": 60,
+      "ransom": 500,
+      "passions": [
+        "Honor",
+        "Loyalty (Leader or Unit)"
+      ],
+      "armor": "Linothorax (3 pts), cuirboilli greaves (3 pts), composite helm (3 pts)",
+      "description": "Agile skirmishers and missile specialists screening the vanguard."
+    },
+    "Warrior (Heavy Cavalry)": {
+      "name": "Warrior (Heavy Cavalry)",
+      "homelands": [
+        "All"
+      ],
+      "skills": {
+        "Battle": 30,
+        "First Aid": 10,
+        "Ride": 35,
+        "Listen": 10,
+        "Unit Weapons": 25,
+        "Scan": 10,
+        "Other Weapon": 20,
+        "Sing": 10
+      },
+      "standardOfLiving": "Free",
+      "baseIncome": 60,
+      "ransom": 500,
+      "passions": [
+        "Honor",
+        "Loyalty (Leader or Unit)"
+      ],
+      "armor": "Heavy scale hauberk (5 pts), greaves & vambraces (6 pts), closed helm (5 pts), mount",
+      "description": "Mighty mounted knights and beast-riders breaking enemy lines with lances and heavy blades."
+    },
+    "Warrior (Light Cavalry)": {
+      "name": "Warrior (Light Cavalry)",
+      "homelands": [
+        "All"
+      ],
+      "skills": {
+        "Ride": 35,
+        "Listen": 10,
+        "Sing": 10,
+        "Scan": 10,
+        "Battle": 30,
+        "Unit Weapons": 25,
+        "First Aid": 10,
+        "Other Weapon": 20
+      },
+      "standardOfLiving": "Free",
+      "baseIncome": 60,
+      "ransom": 500,
+      "passions": [
+        "Honor",
+        "Loyalty (Leader or Unit)"
+      ],
+      "armor": "Linothorax (3 pts), cuirboilli greaves (3 pts), open helm (4 pts), mount",
+      "description": "Mobile mounted scouts and horse archers harrying enemy flanks."
+    }
+  },
+  "cults": {
+    "Argan Argar": {
+      "name": "Argan Argar",
+      "title": "God of Surface Darkness",
+      "runes": [
+        "Darkness",
+        "Harmony"
+      ],
+      "skills": {
+        "Speak (Darktongue)": 20,
+        "Read/Write (Darktongue)": 15,
+        "Sing": 10
+      },
+      "specialRuneMagic": [
+        "Create Shadow",
+        "Dark Walk",
+        "Dismiss Darkness Elemental",
+        "Enchant Lead",
+        "Safe",
+        "Summon Darkness Elemental",
+        "Suppress Lodril"
+      ],
+      "spiritMagic": [
+        {
+          "name": "Countermagic",
+          "points": "var"
+        },
+        {
+          "name": "Darkwall",
+          "points": 2
+        },
+        {
+          "name": "Detect Magic",
+          "points": 1
+        },
+        {
+          "name": "Dispel Magic",
+          "points": "var"
+        },
+        {
+          "name": "Glamour",
+          "points": 2
+        },
+        {
+          "name": "Protection",
+          "points": "var"
+        },
+        {
+          "name": "Vigor",
+          "points": 2
+        }
+      ],
+      "passions": [
+        "Devotion (Argan Argar)",
+        "Loyalty (Temple)"
+      ],
+      "description": "The friendly darkness, god of night-trade between trolls and humans."
+    },
+    "Babeester Gor": {
+      "name": "Babeester Gor",
+      "title": "The Avenging Daughter",
+      "runes": [
+        "Earth",
+        "Death"
+      ],
+      "skills": {
+        "1H Axe": 15,
+        "2H Axe": 20,
+        "Intimidate": 10,
+        "Speak (Earthtongue)": 10
+      },
+      "specialRuneMagic": [
+        "Axe Trance",
+        "Berserker",
+        "Crush",
+        "Dismiss Earth Elemental",
+        "Earth Shield",
+        "Oath",
+        "Shield",
+        "Slash",
+        "Summon Earth Elemental",
+        "True Axe"
+      ],
+      "spiritMagic": [
+        {
+          "name": "Bladesharp",
+          "points": "var"
+        },
+        {
+          "name": "Countermagic",
+          "points": "var"
+        },
+        {
+          "name": "Demoralize",
+          "points": 2
+        },
+        {
+          "name": "Detect Enemies",
+          "points": 1
+        },
+        {
+          "name": "Disruption",
+          "points": 1
+        },
+        {
+          "name": "Heal",
+          "points": "var"
+        },
+        {
+          "name": "Protection",
+          "points": "var"
+        },
+        {
+          "name": "Strength",
+          "points": 2
+        },
+        {
+          "name": "Vigor",
+          "points": 2
+        }
+      ],
+      "passions": [
+        "Devotion (Babeester Gor)",
+        "Loyalty (Temple)",
+        "Hate (Oathbreakers)"
+      ],
+      "description": "Fierce protector of the Earth temples who hunts defilers and oathbreakers."
+    },
+    "Chalana Arroy": {
+      "name": "Chalana Arroy",
+      "title": "Goddess of Healing",
+      "runes": [
+        "Fertility",
+        "Harmony"
+      ],
+      "skills": {
+        "First Aid": 20,
+        "Treat Disease": 15,
+        "Treat Poison": 15,
+        "Sing": 10
+      },
+      "specialRuneMagic": [
+        "Cancel Spirit Magic",
+        "Comfort Song",
+        "Cure All Disease",
+        "Cure Chaos Wound",
+        "Cure Poison",
+        "Harmony",
+        "Heal Body",
+        "Heal Mind",
+        "Healing Trance",
+        "Regrow Limb",
+        "Restore Health",
+        "Resurrect",
+        "Summon Healing Spirit"
+      ],
+      "spiritMagic": [
+        {
+          "name": "Befuddle",
+          "points": 2
+        },
+        {
+          "name": "Countermagic",
+          "points": "var"
+        },
+        {
+          "name": "Dispel Magic",
+          "points": "var"
+        },
+        {
+          "name": "Dullblade",
+          "points": "var"
+        },
+        {
+          "name": "Heal",
+          "points": "var"
+        },
+        {
+          "name": "Light",
+          "points": 1
+        },
+        {
+          "name": "Shimmer",
+          "points": "var"
+        },
+        {
+          "name": "Sleep",
+          "points": 3
+        }
+      ],
+      "passions": [
+        "Devotion (Chalana Arroy)",
+        "Loyalty (Temple)",
+        "Compassion"
+      ],
+      "description": "Pure pacifist goddess of mercy and complete healing."
+    },
+    "Daka Fal": {
+      "name": "Daka Fal",
+      "title": "Ancestor Worship & Judge of the Dead",
+      "runes": [
+        "Man",
+        "Spirit"
+      ],
+      "skills": {
+        "Speak (Spiritspeech)": 20,
+        "Spirit Combat": 15,
+        "Sing": 10
+      },
+      "specialRuneMagic": [
+        "Axis Mundi",
+        "Command Ghost",
+        "Discorporation",
+        "Free Ghost",
+        "Incarnate Ancestor",
+        "Restore Health",
+        "Resurrect",
+        "Spirit Guardian",
+        "Spirit Melding",
+        "Summon Ancestor",
+        "Summon Specific Ancestor",
+        "Summon Spirit Teacher"
+      ],
+      "spiritMagic": [
+        {
+          "name": "Countermagic",
+          "points": "var"
+        },
+        {
+          "name": "Detect Spirit",
+          "points": 1
+        },
+        {
+          "name": "Dispel Magic",
+          "points": "var"
+        },
+        {
+          "name": "Heal",
+          "points": "var"
+        },
+        {
+          "name": "Protection",
+          "points": "var"
+        },
+        {
+          "name": "Second Sight",
+          "points": 3
+        },
+        {
+          "name": "Spirit Binding",
+          "points": 1
+        },
+        {
+          "name": "Spirit Screen",
+          "points": "var"
+        },
+        {
+          "name": "Visibility",
+          "points": 2
+        }
+      ],
+      "passions": [
+        "Love (Family)",
+        "Loyalty (Clan or Shaman)"
+      ],
+      "description": "The father of mortals who taught humans their ancestors and place in the world."
+    },
+    "Eiritha": {
+      "name": "Eiritha",
+      "title": "Herd Mother",
+      "runes": [
+        "Earth",
+        "Beast"
+      ],
+      "skills": {
+        "Understand Herd Beast": 20,
+        "Herd": 15,
+        "Sing": 10
+      },
+      "specialRuneMagic": [
+        "Bless Animals",
+        "Dismiss Earth Elemental",
+        "Earth Shield",
+        "Heal Body",
+        "Multiply Beasts",
+        "Peace",
+        "Regrow Limb",
+        "Speak to Herd Beasts",
+        "Summon Earth Elemental",
+        "Summon Specific Ancestor"
+      ],
+      "spiritMagic": [
+        {
+          "name": "Countermagic",
+          "points": "var"
+        },
+        {
+          "name": "Detect Enemies",
+          "points": 1
+        },
+        {
+          "name": "Detect Life",
+          "points": 1
+        },
+        {
+          "name": "Glamour",
+          "points": 2
+        },
+        {
+          "name": "Heal",
+          "points": "var"
+        },
+        {
+          "name": "Protection",
+          "points": "var"
+        },
+        {
+          "name": "Shimmer",
+          "points": "var"
+        },
+        {
+          "name": "Sleep",
+          "points": 3
+        },
+        {
+          "name": "Strength",
+          "points": 2
+        },
+        {
+          "name": "Vigor",
+          "points": 2
+        }
+      ],
+      "passions": [
+        "Devotion (Eiritha)",
+        "Love (Herd)"
+      ],
+      "description": "Mother of all cattle and herd animals revered across Prax."
+    },
+    "Engizi": {
+      "name": "Engizi",
+      "title": "Sky River Titan",
+      "runes": [
+        "Water",
+        "Movement"
+      ],
+      "skills": {
+        "Boat": 20,
+        "Speak (Boatspeech)": 15,
+        "Swim": 10
+      },
+      "specialRuneMagic": [
+        "Breathe Air/Water",
+        "Dismiss Water Elemental",
+        "Fireshield",
+        "Strongnet",
+        "Summon Naiad",
+        "Summon Water Elemental"
+      ],
+      "spiritMagic": [
+        {
+          "name": "Coordination",
+          "points": 2
+        },
+        {
+          "name": "Extinguish",
+          "points": "var"
+        },
+        {
+          "name": "Heal",
+          "points": "var"
+        },
+        {
+          "name": "Mobility",
+          "points": 1
+        },
+        {
+          "name": "Protection",
+          "points": "var"
+        },
+        {
+          "name": "Shimmer",
+          "points": "var"
+        }
+      ],
+      "passions": [
+        "Devotion (Engizi)",
+        "Loyalty (River)"
+      ],
+      "description": "The mighty spirit of the Creek-Stream River flowing from the Sky world."
+    },
+    "Ernalda": {
+      "name": "Ernalda",
+      "title": "Earth Queen",
+      "runes": [
+        "Earth",
+        "Fertility",
+        "Harmony"
+      ],
+      "skills": {
+        "Sing": 10,
+        "Customs (local)": 15,
+        "Speak (Earthtongue)": 20,
+        "Manage Household": 15
+      },
+      "specialRuneMagic": [
+        "Absorption",
+        "Bless Crops",
+        "Bless Pregnancy",
+        "Charisma",
+        "Command Snake",
+        "Dismiss Earth Elemental",
+        "Earth Shield",
+        "Earthpower",
+        "Gnaw",
+        "Heal Body",
+        "Inviolable",
+        "Regrow Limb",
+        "Restore Health",
+        "Summon Earth Elemental"
+      ],
+      "spiritMagic": [
+        {
+          "name": "Befuddle",
+          "points": 2
+        },
+        {
+          "name": "Countermagic",
+          "points": "var"
+        },
+        {
+          "name": "Detect Life",
+          "points": 1
+        },
+        {
+          "name": "Glamour",
+          "points": 2
+        },
+        {
+          "name": "Heal",
+          "points": "var"
+        },
+        {
+          "name": "Protection",
+          "points": "var"
+        },
+        {
+          "name": "Second Sight",
+          "points": 3
+        },
+        {
+          "name": "Shimmer",
+          "points": "var"
+        },
+        {
+          "name": "Silence",
+          "points": 1
+        },
+        {
+          "name": "Sleep",
+          "points": 3
+        },
+        {
+          "name": "Strength",
+          "points": 2
+        },
+        {
+          "name": "Vigor",
+          "points": 2
+        }
+      ],
+      "passions": [
+        "Devotion (Ernalda)",
+        "Love (Family)",
+        "Loyalty (Temple)"
+      ],
+      "description": "Great Queen of the Earth, source of life, fertility, and peace."
+    },
+    "Eurmal": {
+      "name": "Eurmal",
+      "title": "The Trickster & Clown",
+      "runes": [
+        "Disorder",
+        "Illusion"
+      ],
+      "skills": {
+        "Dodge": 20,
+        "Fast Talk": 15,
+        "Charm": 10,
+        "Sleight": 15
+      },
+      "specialRuneMagic": [
+        "Become Other",
+        "Hallucinate",
+        "Illusory Motion",
+        "Illusory Odor",
+        "Illusory Sight",
+        "Illusory Sound",
+        "Illusory Substance",
+        "Lie",
+        "Madness",
+        "Reflection",
+        "Splatter",
+        "Swallow"
+      ],
+      "spiritMagic": [
+        {
+          "name": "Befuddle",
+          "points": 2
+        },
+        {
+          "name": "Disruption",
+          "points": 1
+        },
+        {
+          "name": "Dullblade",
+          "points": "var"
+        },
+        {
+          "name": "Glamour",
+          "points": 2
+        },
+        {
+          "name": "Glue",
+          "points": "var"
+        },
+        {
+          "name": "Ignite",
+          "points": 1
+        },
+        {
+          "name": "Lantern",
+          "points": 1
+        },
+        {
+          "name": "Mobility",
+          "points": 1
+        },
+        {
+          "name": "Shimmer",
+          "points": "var"
+        },
+        {
+          "name": "Silence",
+          "points": 1
+        }
+      ],
+      "passions": [
+        "Hate (Authority)",
+        "Disorderly Impulse"
+      ],
+      "description": "The sacred fool who broke the cosmic laws and introduced death, laughter, and chaos."
+    },
+    "Foundchild": {
+      "name": "Foundchild",
+      "title": "Hunting God",
+      "runes": [
+        "Death",
+        "Harmony"
+      ],
+      "skills": {
+        "Track": 15,
+        "Peaceful Cut": 20,
+        "Sing": 10,
+        "Hide": 10
+      },
+      "specialRuneMagic": [
+        "Bear Fruit",
+        "Beastmaster",
+        "Bless Hunting Dog",
+        "Draw Beast",
+        "Enchant (Animal) Part",
+        "Heal Body",
+        "Sureshot"
+      ],
+      "spiritMagic": [
+        {
+          "name": "Countermagic",
+          "points": "var"
+        },
+        {
+          "name": "Detect Enemies",
+          "points": 1
+        },
+        {
+          "name": "Detect Life",
+          "points": 1
+        },
+        {
+          "name": "Disruption",
+          "points": 1
+        },
+        {
+          "name": "Farsee",
+          "points": "var"
+        },
+        {
+          "name": "Heal",
+          "points": "var"
+        },
+        {
+          "name": "Mobility",
+          "points": 1
+        },
+        {
+          "name": "Multimissile",
+          "points": "var"
+        },
+        {
+          "name": "Silence",
+          "points": 1
+        },
+        {
+          "name": "Slow",
+          "points": 1
+        },
+        {
+          "name": "Speedart",
+          "points": 1
+        }
+      ],
+      "passions": [
+        "Devotion (Foundchild)",
+        "Love (Wilderness)"
+      ],
+      "description": "The quiet hunter who taught humanity how to live off the land without offending the wild."
+    },
+    "Humakt": {
+      "name": "Humakt",
+      "title": "God of Death and War",
+      "runes": [
+        "Death",
+        "Truth"
+      ],
+      "skills": {
+        "Broadsword": 20,
+        "Other Weapon": 10,
+        "Intimidate": 15
+      },
+      "specialRuneMagic": [
+        "Bind Ghost",
+        "Detect Truth",
+        "Morale",
+        "Oath",
+        "Sever Spirit",
+        "Shield",
+        "Spin",
+        "Sword Trance",
+        "Truesword",
+        "Turn Undead"
+      ],
+      "spiritMagic": [
+        {
+          "name": "Bladesharp",
+          "points": "var"
+        },
+        {
+          "name": "Coordination",
+          "points": 2
+        },
+        {
+          "name": "Countermagic",
+          "points": "var"
+        },
+        {
+          "name": "Demoralize",
+          "points": 2
+        },
+        {
+          "name": "Detect Enemies",
+          "points": 1
+        },
+        {
+          "name": "Detect Undead",
+          "points": 1
+        },
+        {
+          "name": "Disruption",
+          "points": 1
+        },
+        {
+          "name": "Heal",
+          "points": "var"
+        },
+        {
+          "name": "Parry",
+          "points": "var"
+        },
+        {
+          "name": "Protection",
+          "points": "var"
+        },
+        {
+          "name": "Shimmer",
+          "points": "var"
+        },
+        {
+          "name": "Strength",
+          "points": 2
+        },
+        {
+          "name": "Vigor",
+          "points": 2
+        }
+      ],
+      "passions": [
+        "Honor",
+        "Devotion (Humakt)",
+        "Hate (Undead)"
+      ],
+      "description": "The austere god of honorable martial prowess who severed ties to his kin to embody Death."
+    },
+    "Issaries": {
+      "name": "Issaries",
+      "title": "God of Communication and Trade",
+      "runes": [
+        "Harmony",
+        "Movement"
+      ],
+      "skills": {
+        "Speak (Tradetalk)": 20,
+        "Bargain": 15,
+        "Customs (any)": 10,
+        "Evaluate": 10
+      },
+      "specialRuneMagic": [
+        "Clear Path",
+        "Create Market",
+        "Flight",
+        "Lock",
+        "Passage",
+        "Path Watch",
+        "Safe",
+        "Spell Trading"
+      ],
+      "spiritMagic": [
+        {
+          "name": "Befuddle",
+          "points": 2
+        },
+        {
+          "name": "Countermagic",
+          "points": "var"
+        },
+        {
+          "name": "Detect Enemies",
+          "points": 1
+        },
+        {
+          "name": "Detect Gems",
+          "points": 1
+        },
+        {
+          "name": "Detect Gold",
+          "points": 1
+        },
+        {
+          "name": "Detect Magic",
+          "points": 1
+        },
+        {
+          "name": "Detect Silver",
+          "points": 1
+        },
+        {
+          "name": "Dispel Magic",
+          "points": "var"
+        },
+        {
+          "name": "Farsee",
+          "points": "var"
+        },
+        {
+          "name": "Glamour",
+          "points": 2
+        },
+        {
+          "name": "Heal",
+          "points": "var"
+        },
+        {
+          "name": "Light",
+          "points": 1
+        },
+        {
+          "name": "Mindspeech",
+          "points": "var"
+        },
+        {
+          "name": "Mobility",
+          "points": 1
+        },
+        {
+          "name": "Protection",
+          "points": "var"
+        },
+        {
+          "name": "Repair",
+          "points": "var"
+        },
+        {
+          "name": "Silence",
+          "points": 1
+        },
+        {
+          "name": "Sleep",
+          "points": 3
+        }
+      ],
+      "passions": [
+        "Devotion (Issaries)",
+        "Loyalty (Caravan or Market)"
+      ],
+      "description": "The golden-tongued herald and merchant protecting travelers across dangerous borders."
+    },
+    "Lhankor Mhy": {
+      "name": "Lhankor Mhy",
+      "title": "Lord of Knowledge",
+      "runes": [
+        "Truth",
+        "Stasis"
+      ],
+      "skills": {
+        "Read/Write (any)": 20,
+        "Lore (any)": 15,
+        "Sing": 10,
+        "Library Use": 15
+      },
+      "specialRuneMagic": [
+        "Analyze Magic",
+        "Clairvoyance",
+        "Detect Truth",
+        "Find Substance",
+        "Knowledge",
+        "Mind Read",
+        "Read Language",
+        "Reconstruction",
+        "Translate",
+        "Truespeak"
+      ],
+      "spiritMagic": [
+        {
+          "name": "Befuddle",
+          "points": 2
+        },
+        {
+          "name": "Countermagic",
+          "points": "var"
+        },
+        {
+          "name": "Detect Gems",
+          "points": 1
+        },
+        {
+          "name": "Detect Gold",
+          "points": 1
+        },
+        {
+          "name": "Detect Magic",
+          "points": 1
+        },
+        {
+          "name": "Detect Silver",
+          "points": 1
+        },
+        {
+          "name": "Detect Spirit",
+          "points": 1
+        },
+        {
+          "name": "Dispel Magic",
+          "points": "var"
+        },
+        {
+          "name": "Farsee",
+          "points": "var"
+        },
+        {
+          "name": "Heal",
+          "points": "var"
+        },
+        {
+          "name": "Lantern",
+          "points": 1
+        },
+        {
+          "name": "Light",
+          "points": 1
+        },
+        {
+          "name": "Lightwall",
+          "points": 4
+        },
+        {
+          "name": "Mindspeech",
+          "points": "var"
+        },
+        {
+          "name": "Repair",
+          "points": "var"
+        },
+        {
+          "name": "Second Sight",
+          "points": 3
+        },
+        {
+          "name": "Slow",
+          "points": 1
+        }
+      ],
+      "passions": [
+        "Devotion (Lhankor Mhy)",
+        "Loyalty (Library or Sage)"
+      ],
+      "description": "The bearded god of scholars, law, writing, and esoteric secrets."
+    },
+    "Maran Gor": {
+      "name": "Maran Gor",
+      "title": "The Earthshaker",
+      "runes": [
+        "Earth",
+        "Disorder",
+        "Death"
+      ],
+      "skills": {
+        "1H Axe": 15,
+        "Intimidate": 20,
+        "Spirit Combat": 10
+      },
+      "specialRuneMagic": [
+        "Berserker",
+        "Blast Earth",
+        "Command Dinosaur",
+        "Create Fissure",
+        "Crush",
+        "Dismiss Earth Elemental",
+        "Earth Shield",
+        "Earthquake",
+        "Shake Earth",
+        "Summon Dinosaur",
+        "Summon Earth Elemental"
+      ],
+      "spiritMagic": [
+        {
+          "name": "Bladesharp",
+          "points": "var"
+        },
+        {
+          "name": "Bludgeon",
+          "points": "var"
+        },
+        {
+          "name": "Countermagic",
+          "points": "var"
+        },
+        {
+          "name": "Demoralize",
+          "points": 2
+        },
+        {
+          "name": "Detect Enemies",
+          "points": 1
+        },
+        {
+          "name": "Disruption",
+          "points": 1
+        },
+        {
+          "name": "Fanaticism",
+          "points": 1
+        },
+        {
+          "name": "Protection",
+          "points": "var"
+        },
+        {
+          "name": "Strength",
+          "points": 2
+        },
+        {
+          "name": "Vigor",
+          "points": 2
+        }
+      ],
+      "passions": [
+        "Devotion (Maran Gor)",
+        "Fearless Rage"
+      ],
+      "description": "Terrifying goddess of dinosaurs, earthquakes, and merciless fury."
+    },
+    "Odayla": {
+      "name": "Odayla",
+      "title": "The Bear God",
+      "runes": [
+        "Air",
+        "Beast"
+      ],
+      "skills": {
+        "Track": 20,
+        "Climb": 15,
+        "Survival": 15,
+        "1H Spear": 10
+      },
+      "specialRuneMagic": [
+        "Bear’s Strength",
+        "Bearskin",
+        "Claw",
+        "Dismiss Air Elemental",
+        "Hibernation",
+        "Summon Air Elemental",
+        "Summon Bear"
+      ],
+      "spiritMagic": [
+        {
+          "name": "Bladesharp",
+          "points": "var"
+        },
+        {
+          "name": "Countermagic",
+          "points": "var"
+        },
+        {
+          "name": "Detect Enemies",
+          "points": 1
+        },
+        {
+          "name": "Detect Life",
+          "points": 1
+        },
+        {
+          "name": "Farsee",
+          "points": "var"
+        },
+        {
+          "name": "Heal",
+          "points": "var"
+        },
+        {
+          "name": "Protection",
+          "points": "var"
+        },
+        {
+          "name": "Silence",
+          "points": 1
+        },
+        {
+          "name": "Slow",
+          "points": 1
+        },
+        {
+          "name": "Speedart",
+          "points": 1
+        },
+        {
+          "name": "Strength",
+          "points": 2
+        },
+        {
+          "name": "Vigor",
+          "points": 2
+        }
+      ],
+      "passions": [
+        "Devotion (Odayla)",
+        "Love (Wilderness)"
+      ],
+      "description": "Son of Orlanth and hunter who wrested power from the Great Bear."
+    },
+    "Orlanth": {
+      "name": "Orlanth",
+      "title": "King of the Gods, Storm & Freedom",
+      "runes": [
+        "Air",
+        "Movement"
+      ],
+      "skills": {
+        "Broadsword": 15,
+        "1H Spear": 15,
+        "Orate": 10,
+        "Fly": 10
+      },
+      "subcults": [
+        "Orlanth Adventurous",
+        "Orlanth Thunderous",
+        "Vinga Adventurous"
+      ],
+      "specialRuneMagic": [
+        "Call Clouds",
+        "Call Wind",
+        "Charisma",
+        "Clear Path",
+        "Cloud Clear",
+        "Dark Walk",
+        "Dismiss Air Elemental",
+        "Fear",
+        "Flight",
+        "Leap",
+        "Lightning",
+        "Mist Cloud",
+        "Rain",
+        "Shield",
+        "Speak to Birds",
+        "Spin",
+        "Summon Air Elemental",
+        "Sureshot",
+        "Teleport",
+        "Thunderbolt",
+        "Wind Warp",
+        "Wind Words"
+      ],
+      "spiritMagic": [
+        {
+          "name": "Befuddle",
+          "points": 2
+        },
+        {
+          "name": "Bladesharp",
+          "points": "var"
+        },
+        {
+          "name": "Bludgeon",
+          "points": "var"
+        },
+        {
+          "name": "Countermagic",
+          "points": "var"
+        },
+        {
+          "name": "Darkwall",
+          "points": 2
+        },
+        {
+          "name": "Demoralize",
+          "points": 2
+        },
+        {
+          "name": "Detect Enemies",
+          "points": 1
+        },
+        {
+          "name": "Dispel Magic",
+          "points": "var"
+        },
+        {
+          "name": "Disruption",
+          "points": 1
+        },
+        {
+          "name": "Fanaticism",
+          "points": 1
+        },
+        {
+          "name": "Heal",
+          "points": "var"
+        },
+        {
+          "name": "Light",
+          "points": 1
+        },
+        {
+          "name": "Mobility",
+          "points": 1
+        },
+        {
+          "name": "Multimissile",
+          "points": "var"
+        },
+        {
+          "name": "Protection",
+          "points": "var"
+        },
+        {
+          "name": "Shimmer",
+          "points": "var"
+        },
+        {
+          "name": "Silence",
+          "points": 1
+        },
+        {
+          "name": "Speedart",
+          "points": 1
+        },
+        {
+          "name": "Strength",
+          "points": 2
+        },
+        {
+          "name": "Vigor",
+          "points": 2
+        }
+      ],
+      "passions": [
+        "Honor",
+        "Devotion (Orlanth)",
+        "Hate (Lunar Empire)"
+      ],
+      "description": "The rebel storm king who slew the Sun, brought death, and led the Lightbringers to restore the cosmos."
+    },
+    "Seven Mothers": {
+      "name": "Seven Mothers",
+      "title": "Recreators of the Red Goddess",
+      "runes": [
+        "Moon",
+        "Fertility",
+        "Death"
+      ],
+      "skills": {
+        "Speak (New Pelorian)": 20,
+        "Read/Write (New Pelorian)": 15,
+        "Sing": 10
+      },
+      "specialRuneMagic": [
+        "Chaos Gift",
+        "Chaos Spawn",
+        "Control Lune",
+        "Create Market",
+        "Dismiss Elemental",
+        "Dismiss Lune",
+        "Heal Body",
+        "Madness",
+        "Mindblast",
+        "Moonburn",
+        "Reflection",
+        "Regrow Limb",
+        "Restore Health",
+        "Shield",
+        "Summon Elemental",
+        "Summon Lune",
+        "Truesword"
+      ],
+      "spiritMagic": [
+        {
+          "name": "Befuddle",
+          "points": 2
+        },
+        {
+          "name": "Bladesharp",
+          "points": "var"
+        },
+        {
+          "name": "Bludgeon",
+          "points": "var"
+        },
+        {
+          "name": "Coordination",
+          "points": 2
+        },
+        {
+          "name": "Countermagic",
+          "points": "var"
+        },
+        {
+          "name": "Demoralize",
+          "points": 2
+        },
+        {
+          "name": "Detect Enemies",
+          "points": 1
+        },
+        {
+          "name": "Detect Magic",
+          "points": 1
+        },
+        {
+          "name": "Dispel Magic",
+          "points": "var"
+        },
+        {
+          "name": "Disruption",
+          "points": 1
+        },
+        {
+          "name": "Fanaticism",
+          "points": 1
+        },
+        {
+          "name": "Glamour",
+          "points": 2
+        },
+        {
+          "name": "Heal",
+          "points": "var"
+        },
+        {
+          "name": "Mindspeech",
+          "points": "var"
+        },
+        {
+          "name": "Mobility",
+          "points": 1
+        },
+        {
+          "name": "Protection",
+          "points": "var"
+        },
+        {
+          "name": "Second Sight",
+          "points": 3
+        },
+        {
+          "name": "Shimmer",
+          "points": "var"
+        },
+        {
+          "name": "Sleep",
+          "points": 3
+        },
+        {
+          "name": "Slow",
+          "points": 1
+        },
+        {
+          "name": "Speedart",
+          "points": 1
+        },
+        {
+          "name": "Strength",
+          "points": 2
+        },
+        {
+          "name": "Vigor",
+          "points": 2
+        }
+      ],
+      "passions": [
+        "Devotion (Seven Mothers)",
+        "Loyalty (Lunar Empire)"
+      ],
+      "description": "The missionary cult of the Lunar Empire offering inclusion, redemption, and lunar illumination."
+    },
+    "Storm Bull": {
+      "name": "Storm Bull",
+      "title": "The Chaos Killer (Urox)",
+      "runes": [
+        "Air",
+        "Death",
+        "Beast"
+      ],
+      "skills": {
+        "1H Axe or 2H Axe": 20,
+        "Brawl": 15,
+        "Intimidate": 15,
+        "Sense Chaos": 20
+      },
+      "specialRuneMagic": [
+        "Berserker",
+        "Dismiss Air Elemental",
+        "Face Chaos",
+        "Impede Chaos",
+        "Morale",
+        "Shield",
+        "Smash",
+        "Summon Air Elemental",
+        "True Axe",
+        "Truesword",
+        "Weapon Trance"
+      ],
+      "spiritMagic": [
+        {
+          "name": "Bladesharp",
+          "points": "var"
+        },
+        {
+          "name": "Bludgeon",
+          "points": "var"
+        },
+        {
+          "name": "Countermagic",
+          "points": "var"
+        },
+        {
+          "name": "Demoralize",
+          "points": 2
+        },
+        {
+          "name": "Detect Enemies",
+          "points": 1
+        },
+        {
+          "name": "Dispel Magic",
+          "points": "var"
+        },
+        {
+          "name": "Disruption",
+          "points": 1
+        },
+        {
+          "name": "Fanaticism",
+          "points": 1
+        },
+        {
+          "name": "Heal",
+          "points": "var"
+        },
+        {
+          "name": "Mobility",
+          "points": 1
+        },
+        {
+          "name": "Protection",
+          "points": "var"
+        },
+        {
+          "name": "Strength",
+          "points": 2
+        },
+        {
+          "name": "Vigor",
+          "points": 2
+        }
+      ],
+      "passions": [
+        "Hate (Chaos)",
+        "Devotion (Storm Bull)",
+        "Honor"
+      ],
+      "description": "The berserk desert storm god who pinned Wakboth the Devil beneath the Block."
+    },
+    "Waha": {
+      "name": "Waha",
+      "title": "The Butcher & Founder of Prax",
+      "runes": [
+        "Man",
+        "Death"
+      ],
+      "skills": {
+        "Peaceful Cut": 20,
+        "Herd": 15,
+        "1H Spear": 15
+      },
+      "specialRuneMagic": [
+        "Banish Spirit",
+        "Bless Animals",
+        "Butcher",
+        "Command Beast",
+        "Discorporation",
+        "Dismiss Earth Elemental",
+        "Free Ghost",
+        "Shield",
+        "Speak to Herd Beasts",
+        "Spirit Guardian",
+        "Summon Ancestor",
+        "Summon Earth Elemental",
+        "Summon Specific Ancestor",
+        "Truespear"
+      ],
+      "spiritMagic": [
+        {
+          "name": "Bladesharp",
+          "points": "var"
+        },
+        {
+          "name": "Bludgeon",
+          "points": "var"
+        },
+        {
+          "name": "Coordination",
+          "points": 2
+        },
+        {
+          "name": "Countermagic",
+          "points": "var"
+        },
+        {
+          "name": "Demoralize",
+          "points": 2
+        },
+        {
+          "name": "Detect Enemies",
+          "points": 1
+        },
+        {
+          "name": "Detect Life",
+          "points": 1
+        },
+        {
+          "name": "Detect Spirit",
+          "points": 1
+        },
+        {
+          "name": "Dispel Magic",
+          "points": "var"
+        },
+        {
+          "name": "Disruption",
+          "points": 1
+        },
+        {
+          "name": "Fanaticism",
+          "points": 1
+        },
+        {
+          "name": "Heal",
+          "points": "var"
+        },
+        {
+          "name": "Mobility",
+          "points": 1
+        },
+        {
+          "name": "Multimissile",
+          "points": "var"
+        },
+        {
+          "name": "Protection",
+          "points": "var"
+        },
+        {
+          "name": "Shimmer",
+          "points": "var"
+        },
+        {
+          "name": "Speedart",
+          "points": 1
+        },
+        {
+          "name": "Spirit Screen",
+          "points": "var"
+        },
+        {
+          "name": "Strength",
+          "points": 2
+        },
+        {
+          "name": "Vigor",
+          "points": 2
+        }
+      ],
+      "passions": [
+        "Loyalty (Tribe)",
+        "Devotion (Waha)"
+      ],
+      "description": "Hero-god who instituted the Survival Covenant and taught Praxians to cast lots between eaters and eaten."
+    },
+    "Yelm": {
+      "name": "Yelm",
+      "title": "The Sun Emperor",
+      "runes": [
+        "Fire/Sky",
+        "Truth"
+      ],
+      "skills": {
+        "Composite Bow": 20,
+        "Orate": 15,
+        "Sing": 10,
+        "Customs (Noble)": 10
+      },
+      "specialRuneMagic": [
+        "Cloud Clear",
+        "Command Horse",
+        "Detect Truth",
+        "Dismiss Fire Elemental",
+        "Heal Body",
+        "Morale",
+        "Order",
+        "Shield",
+        "Speak to Birds",
+        "Summon Fire Elemental",
+        "Sunbright",
+        "Sunripen",
+        "Sunspear",
+        "Sureshot",
+        "Truebow"
+      ],
+      "spiritMagic": [
+        {
+          "name": "Bladesharp",
+          "points": "var"
+        },
+        {
+          "name": "Coordination",
+          "points": 2
+        },
+        {
+          "name": "Countermagic",
+          "points": "var"
+        },
+        {
+          "name": "Detect Enemies",
+          "points": 1
+        },
+        {
+          "name": "Detect Gold",
+          "points": 1
+        },
+        {
+          "name": "Detect Magic",
+          "points": 1
+        },
+        {
+          "name": "Dispel Magic",
+          "points": "var"
+        },
+        {
+          "name": "Farsee",
+          "points": "var"
+        },
+        {
+          "name": "Firearrow",
+          "points": 2
+        },
+        {
+          "name": "Fireblade",
+          "points": 4
+        },
+        {
+          "name": "Glamour",
+          "points": 2
+        },
+        {
+          "name": "Heal",
+          "points": "var"
+        },
+        {
+          "name": "Ignite",
+          "points": 1
+        },
+        {
+          "name": "Lantern",
+          "points": 1
+        },
+        {
+          "name": "Light",
+          "points": 1
+        },
+        {
+          "name": "Lightwall",
+          "points": 4
+        },
+        {
+          "name": "Mindspeech",
+          "points": "var"
+        },
+        {
+          "name": "Multimissile",
+          "points": "var"
+        },
+        {
+          "name": "Protection",
+          "points": "var"
+        },
+        {
+          "name": "Shimmer",
+          "points": "var"
+        },
+        {
+          "name": "Speedart",
+          "points": 1
+        }
+      ],
+      "passions": [
+        "Honor",
+        "Devotion (Yelm)",
+        "Loyalty (Emperor or Queen)"
+      ],
+      "description": "Sovereign Lord of the Sky and Cosmic Order."
+    },
+    "Yelmalio": {
+      "name": "Yelmalio",
+      "title": "Sun God of the Frontier",
+      "runes": [
+        "Fire/Sky",
+        "Truth",
+        "Stasis"
+      ],
+      "skills": {
+        "Pike": 20,
+        "Self Bow or Composite Bow": 15,
+        "Large Shield": 15
+      },
+      "specialRuneMagic": [
+        "Catseye",
+        "Cloud Clear",
+        "Command Horse",
+        "Detect Truth",
+        "Dismiss Small Fire Elemental",
+        "Fight Disease",
+        "Heal Body",
+        "Morale",
+        "Shield",
+        "Summon Small Fire Elemental",
+        "Sunbright",
+        "Sunripen",
+        "Truespear"
+      ],
+      "spiritMagic": [
+        {
+          "name": "Bladesharp",
+          "points": "var"
+        },
+        {
+          "name": "Coordination",
+          "points": 2
+        },
+        {
+          "name": "Countermagic",
+          "points": "var"
+        },
+        {
+          "name": "Detect Enemies",
+          "points": 1
+        },
+        {
+          "name": "Detect Gold",
+          "points": 1
+        },
+        {
+          "name": "Detect Magic",
+          "points": 1
+        },
+        {
+          "name": "Dispel Magic",
+          "points": "var"
+        },
+        {
+          "name": "Farsee",
+          "points": "var"
+        },
+        {
+          "name": "Glamour",
+          "points": 2
+        },
+        {
+          "name": "Heal",
+          "points": "var"
+        },
+        {
+          "name": "Lantern",
+          "points": 1
+        },
+        {
+          "name": "Light",
+          "points": 1
+        },
+        {
+          "name": "Lightwall",
+          "points": 4
+        },
+        {
+          "name": "Multimissile",
+          "points": "var"
+        },
+        {
+          "name": "Parry",
+          "points": "var"
+        },
+        {
+          "name": "Protection",
+          "points": "var"
+        },
+        {
+          "name": "Second Sight",
+          "points": 3
+        },
+        {
+          "name": "Shimmer",
+          "points": "var"
+        },
+        {
+          "name": "Speedart",
+          "points": 1
+        },
+        {
+          "name": "Strength",
+          "points": 2
+        },
+        {
+          "name": "Vigor",
+          "points": 2
+        }
+      ],
+      "passions": [
+        "Honor",
+        "Devotion (Yelmalio)",
+        "Loyalty (Sun Dome Temple)"
+      ],
+      "description": "The unyielding Light that survived the Darkness when the Sun fell into the Underworld."
+    },
+    "Yinkin": {
+      "name": "Yinkin",
+      "title": "The Shadowcat God",
+      "runes": [
+        "Air",
+        "Beast"
+      ],
+      "skills": {
+        "Climb": 20,
+        "Hide": 20,
+        "Jump": 15,
+        "Track": 10
+      },
+      "specialRuneMagic": [
+        "Catseye",
+        "Claws",
+        "Combine",
+        "Dismiss Air Elemental",
+        "Identify Scent",
+        "Kinship",
+        "Reproduction",
+        "Shadowcat",
+        "Speak to Beasts (Shadowcats)",
+        "Summon Air Elemental",
+        "Summon Shadowcat"
+      ],
+      "spiritMagic": [
+        {
+          "name": "Bladesharp",
+          "points": "var"
+        },
+        {
+          "name": "Coordination",
+          "points": 2
+        },
+        {
+          "name": "Countermagic",
+          "points": "var"
+        },
+        {
+          "name": "Darkwall",
+          "points": 2
+        },
+        {
+          "name": "Detect Enemies",
+          "points": 1
+        },
+        {
+          "name": "Detect Life",
+          "points": 1
+        },
+        {
+          "name": "Disruption",
+          "points": 1
+        },
+        {
+          "name": "Farsee",
+          "points": "var"
+        },
+        {
+          "name": "Glamour",
+          "points": 2
+        },
+        {
+          "name": "Heal",
+          "points": "var"
+        },
+        {
+          "name": "Mobility",
+          "points": 1
+        },
+        {
+          "name": "Protection",
+          "points": "var"
+        },
+        {
+          "name": "Shimmer",
+          "points": "var"
+        },
+        {
+          "name": "Silence",
+          "points": 1
+        },
+        {
+          "name": "Slow",
+          "points": 1
+        },
+        {
+          "name": "Speedart",
+          "points": 1
+        },
+        {
+          "name": "Strength",
+          "points": 2
+        },
+        {
+          "name": "Vigor",
+          "points": 2
+        }
+      ],
+      "passions": [
+        "Devotion (Yinkin)",
+        "Love (Kin)"
+      ],
+      "description": "Brother to Orlanth and patron of shadowcats, hunters, and solitary stealth."
+    }
+  },
+  "commonRuneSpells": [
+    {
+      "name": "Command Cult Spirit",
+      "cost": 2,
+      "type": "Rune",
+      "description": "Compels an unallied cult spirit or elemental to obey the caster for 15 minutes."
+    },
+    {
+      "name": "Dismiss Magic",
+      "cost": "1+",
+      "type": "Rune",
+      "description": "Dispels 1 point of Rune magic or 2 points of spirit magic per Rune Point spent."
+    },
+    {
+      "name": "Divination",
+      "cost": "1+",
+      "type": "Rune",
+      "description": "Ritual inquiry with the deity on sacred ground regarding a specific question."
+    },
+    {
+      "name": "Extension",
+      "cost": "1+",
+      "type": "Rune",
+      "description": "Extends duration of an accompanied temporal Rune spell (1 pt = 1 hr, 2 pts = 1 day, 3 pts = 1 wk, 4 pts = 1 season, 5 pts = 1 yr)."
+    },
+    {
+      "name": "Find Enemy",
+      "cost": 1,
+      "type": "Rune",
+      "description": "Detects anyone within range intending harm to the caster."
+    },
+    {
+      "name": "Heal Wound",
+      "cost": "1+",
+      "type": "Rune",
+      "description": "Instantly heals 1D6 hit points per Rune Point spent on a wounded hit location."
+    },
+    {
+      "name": "Multispell",
+      "cost": "1+",
+      "type": "Rune",
+      "description": "Allows simultaneous casting of 1 additional spirit magic spell per Rune Point spent."
+    },
+    {
+      "name": "Sanctify",
+      "cost": "1+",
+      "type": "Rune",
+      "description": "Ritually consecrates an area (10m radius per point) as temporary holy ground."
+    },
+    {
+      "name": "Soul Sight",
+      "cost": 1,
+      "type": "Rune",
+      "description": "Reveals POW, Magic Points, active spells, and Rune affinities of targets in view."
+    },
+    {
+      "name": "Spirit Block",
+      "cost": "1+",
+      "type": "Rune",
+      "description": "Blocks 2D6 points of Spirit Combat damage per Rune Point spent."
+    },
+    {
+      "name": "Summon Cult Spirit",
+      "cost": "1+",
+      "type": "Rune",
+      "description": "Ritually summons a cult spirit or elemental (1 pt = Small, 2 pts = Medium, 3 pts = Large)."
+    },
+    {
+      "name": "Warding",
+      "cost": "1+",
+      "type": "Rune",
+      "description": "Ritually protects an area with four stakes; intruders take 1D3 damage per point and trigger a mental alarm."
+    }
+  ],
+  "weapons": [
+    {
+      "name": "Broadsword",
+      "category": "1H Sword",
+      "base": 10,
+      "str": 9,
+      "dex": 7,
+      "damage": "1D8+1",
+      "hp": 12,
+      "enc": 1,
+      "sr": 2,
+      "type": "CT"
+    },
+    {
+      "name": "Shortsword",
+      "category": "1H Sword",
+      "base": 10,
+      "str": 5,
+      "dex": 5,
+      "damage": "1D6+1",
+      "hp": 10,
+      "enc": 1,
+      "sr": 3,
+      "type": "CT"
+    },
+    {
+      "name": "Kopis",
+      "category": "1H Sword",
+      "base": 10,
+      "str": 9,
+      "dex": 9,
+      "damage": "1D8+1",
+      "hp": 12,
+      "enc": 1,
+      "sr": 2,
+      "type": "CT"
+    },
+    {
+      "name": "Rapier",
+      "category": "1H Sword",
+      "base": 10,
+      "str": 7,
+      "dex": 13,
+      "damage": "1D6+1",
+      "hp": 8,
+      "enc": 1,
+      "sr": 2,
+      "type": "I"
+    },
+    {
+      "name": "Battle Axe (1H)",
+      "category": "1H Axe",
+      "base": 10,
+      "str": 13,
+      "dex": 7,
+      "damage": "1D8+2",
+      "hp": 8,
+      "enc": 2,
+      "sr": 3,
+      "type": "S"
+    },
+    {
+      "name": "Battle Axe (2H)",
+      "category": "2H Axe",
+      "base": 5,
+      "str": 9,
+      "dex": 7,
+      "damage": "1D8+2",
+      "hp": 8,
+      "enc": 2,
+      "sr": 3,
+      "type": "S"
+    },
+    {
+      "name": "Great Axe",
+      "category": "2H Axe",
+      "base": 5,
+      "str": 11,
+      "dex": 7,
+      "damage": "2D6+2",
+      "hp": 10,
+      "enc": 2,
+      "sr": 2,
+      "type": "S"
+    },
+    {
+      "name": "Dagger-Axe (2H)",
+      "category": "2H Axe",
+      "base": 5,
+      "str": 13,
+      "dex": 9,
+      "damage": "3D6",
+      "hp": 10,
+      "enc": 3,
+      "sr": 1,
+      "type": "S"
+    },
+    {
+      "name": "Small Axe",
+      "category": "1H Axe",
+      "base": 10,
+      "str": 7,
+      "dex": 7,
+      "damage": "1D6+1",
+      "hp": 6,
+      "enc": 1,
+      "sr": 4,
+      "type": "S"
+    },
+    {
+      "name": "Dagger",
+      "category": "Dagger",
+      "base": 15,
+      "str": 0,
+      "dex": 0,
+      "damage": "1D4+2",
+      "hp": 6,
+      "enc": 0.25,
+      "sr": 4,
+      "type": "CT"
+    },
+    {
+      "name": "1H Spear",
+      "category": "1H Spear",
+      "base": 5,
+      "str": 9,
+      "dex": 9,
+      "damage": "1D6+1",
+      "hp": 10,
+      "enc": 2,
+      "sr": 2,
+      "type": "I"
+    },
+    {
+      "name": "2H Spear",
+      "category": "2H Spear",
+      "base": 15,
+      "str": 9,
+      "dex": 7,
+      "damage": "1D10+1",
+      "hp": 10,
+      "enc": 2,
+      "sr": 1,
+      "type": "I"
+    },
+    {
+      "name": "Lance",
+      "category": "1H Spear",
+      "base": 5,
+      "str": 9,
+      "dex": 9,
+      "damage": "1D10+1",
+      "hp": 10,
+      "enc": 2,
+      "sr": 0,
+      "type": "I"
+    },
+    {
+      "name": "Pike",
+      "category": "2H Spear",
+      "base": 15,
+      "str": 9,
+      "dex": 7,
+      "damage": "1D10+2",
+      "hp": 12,
+      "enc": 3,
+      "sr": 0,
+      "type": "I"
+    },
+    {
+      "name": "1H Mace",
+      "category": "1H Mace",
+      "base": 15,
+      "str": 9,
+      "dex": 7,
+      "damage": "1D6+2",
+      "hp": 10,
+      "enc": 1,
+      "sr": 3,
+      "type": "C"
+    },
+    {
+      "name": "2H Mace (Maul)",
+      "category": "2H Mace",
+      "base": 10,
+      "str": 11,
+      "dex": 7,
+      "damage": "2D6+2",
+      "hp": 10,
+      "enc": 3,
+      "sr": 2,
+      "type": "C"
+    },
+    {
+      "name": "Quarterstaff",
+      "category": "Quarterstaff",
+      "base": 15,
+      "str": 7,
+      "dex": 9,
+      "damage": "1D8",
+      "hp": 8,
+      "enc": 2,
+      "sr": 2,
+      "type": "C"
+    },
+    {
+      "name": "Small Shield",
+      "category": "Shield",
+      "base": 15,
+      "str": 5,
+      "dex": 5,
+      "damage": "1D3",
+      "hp": 8,
+      "enc": 1,
+      "sr": 4,
+      "type": "C"
+    },
+    {
+      "name": "Medium Shield",
+      "category": "Shield",
+      "base": 15,
+      "str": 9,
+      "dex": 5,
+      "damage": "1D4",
+      "hp": 12,
+      "enc": 2,
+      "sr": 3,
+      "type": "C"
+    },
+    {
+      "name": "Large Shield",
+      "category": "Shield",
+      "base": 15,
+      "str": 12,
+      "dex": 5,
+      "damage": "1D6",
+      "hp": 16,
+      "enc": 3,
+      "sr": 2,
+      "type": "C"
+    },
+    {
+      "name": "Composite Bow",
+      "category": "Bow",
+      "base": 5,
+      "str": 9,
+      "dex": 9,
+      "damage": "1D8+1",
+      "hp": 7,
+      "enc": 1,
+      "sr": "3/S/MR",
+      "range": 100,
+      "type": "I"
+    },
+    {
+      "name": "Self Bow",
+      "category": "Bow",
+      "base": 5,
+      "str": 7,
+      "dex": 7,
+      "damage": "1D6+1",
+      "hp": 5,
+      "enc": 1,
+      "sr": "3/S/MR",
+      "range": 80,
+      "type": "I"
+    },
+    {
+      "name": "Sling",
+      "category": "Sling",
+      "base": 5,
+      "str": 0,
+      "dex": 9,
+      "damage": "1D8",
+      "hp": 4,
+      "enc": 0.1,
+      "sr": "3/S/MR",
+      "range": 80,
+      "type": "I"
+    },
+    {
+      "name": "Javelin",
+      "category": "Thrown",
+      "base": 10,
+      "str": 9,
+      "dex": 7,
+      "damage": "1D10",
+      "hp": 8,
+      "enc": 1,
+      "sr": "1/S/MR",
+      "range": 20,
+      "type": "I"
+    },
+    {
+      "name": "Thrown Axe",
+      "category": "Thrown",
+      "base": 10,
+      "str": 7,
+      "dex": 7,
+      "damage": "1D6",
+      "hp": 6,
+      "enc": 1,
+      "sr": "1/S/MR",
+      "range": 15,
+      "type": "S"
+    },
+    {
+      "name": "Dart",
+      "category": "Thrown",
+      "base": 10,
+      "str": 0,
+      "dex": 7,
+      "damage": "1D4",
+      "hp": 2,
+      "enc": 0.1,
+      "sr": "1/S/MR",
+      "range": 15,
+      "type": "I"
+    }
+  ],
+  "armors": [
+    {
+      "name": "Heavy Scale Hauberk",
+      "location": "Abdomen, Chest",
+      "ap": 5,
+      "enc": 4,
+      "type": "Heavy Scale"
+    },
+    {
+      "name": "Disk Plate Cuirass",
+      "location": "Abdomen, Chest",
+      "ap": 5,
+      "enc": 4,
+      "type": "Disk Plate"
+    },
+    {
+      "name": "Studded Leather Skirt",
+      "location": "Abdomen, Legs",
+      "ap": 3,
+      "enc": 2,
+      "type": "Studded Leather"
+    },
+    {
+      "name": "Linothorax",
+      "location": "Abdomen, Chest",
+      "ap": 3,
+      "enc": 2,
+      "type": "Linothorax"
+    },
+    {
+      "name": "Cuirboilli Greaves",
+      "location": "Legs",
+      "ap": 3,
+      "enc": 1.5,
+      "type": "Cuirboilli"
+    },
+    {
+      "name": "Cuirboilli Vambraces",
+      "location": "Arms",
+      "ap": 3,
+      "enc": 1.5,
+      "type": "Cuirboilli"
+    },
+    {
+      "name": "Bronze Plate Greaves",
+      "location": "Legs",
+      "ap": 6,
+      "enc": 3,
+      "type": "Bronze Plate"
+    },
+    {
+      "name": "Bronze Plate Vambraces",
+      "location": "Arms",
+      "ap": 6,
+      "enc": 3,
+      "type": "Bronze Plate"
+    },
+    {
+      "name": "Open Helm",
+      "location": "Head",
+      "ap": 4,
+      "enc": 1,
+      "type": "Bronze Plate"
+    },
+    {
+      "name": "Closed Helm",
+      "location": "Head",
+      "ap": 5,
+      "enc": 2,
+      "type": "Bronze Plate"
+    },
+    {
+      "name": "Composite Helm",
+      "location": "Head",
+      "ap": 3,
+      "enc": 1,
+      "type": "Composite"
+    },
+    {
+      "name": "Leather Cap",
+      "location": "Head",
+      "ap": 2,
+      "enc": 0.5,
+      "type": "Leather"
+    },
+    {
+      "name": "Leather Trousers",
+      "location": "Legs",
+      "ap": 1,
+      "enc": 1,
+      "type": "Leather"
+    },
+    {
+      "name": "Leather Hauberk",
+      "location": "Abdomen, Chest",
+      "ap": 2,
+      "enc": 2,
+      "type": "Leather"
+    }
+  ],
+  "skillsBase": {
+    "Boat": {
+      "cat": "Agility",
+      "base": 5
+    },
+    "Climb": {
+      "cat": "Agility",
+      "base": 40
+    },
+    "Dodge": {
+      "cat": "Agility",
+      "base": "DEX*2"
+    },
+    "Drive Chariot": {
+      "cat": "Agility",
+      "base": 5
+    },
+    "Jump": {
+      "cat": "Agility",
+      "base": "DEX*3"
+    },
+    "Ride": {
+      "cat": "Agility",
+      "base": 5
+    },
+    "Swim": {
+      "cat": "Agility",
+      "base": 15
+    },
+    "Act": {
+      "cat": "Communication",
+      "base": 5
+    },
+    "Art": {
+      "cat": "Communication",
+      "base": 5
+    },
+    "Bargain": {
+      "cat": "Communication",
+      "base": 5
+    },
+    "Charm": {
+      "cat": "Communication",
+      "base": 15
+    },
+    "Dance": {
+      "cat": "Communication",
+      "base": 10
+    },
+    "Disguise": {
+      "cat": "Communication",
+      "base": 5
+    },
+    "Fast Talk": {
+      "cat": "Communication",
+      "base": 5
+    },
+    "Intimidate": {
+      "cat": "Communication",
+      "base": 15
+    },
+    "Intrigue": {
+      "cat": "Communication",
+      "base": 5
+    },
+    "Orate": {
+      "cat": "Communication",
+      "base": 10
+    },
+    "Sing": {
+      "cat": "Communication",
+      "base": 10
+    },
+    "Speak (Own Language)": {
+      "cat": "Communication",
+      "base": 50
+    },
+    "Speak (Tradetalk)": {
+      "cat": "Communication",
+      "base": 0
+    },
+    "Speak (Other)": {
+      "cat": "Communication",
+      "base": 0
+    },
+    "Alchemy": {
+      "cat": "Knowledge",
+      "base": 0
+    },
+    "Animal Lore": {
+      "cat": "Knowledge",
+      "base": 5
+    },
+    "Battle": {
+      "cat": "Knowledge",
+      "base": 10
+    },
+    "Bureaucracy": {
+      "cat": "Knowledge",
+      "base": 0
+    },
+    "Celestial Lore": {
+      "cat": "Knowledge",
+      "base": 5
+    },
+    "Cult Lore": {
+      "cat": "Knowledge",
+      "base": 5
+    },
+    "Customs (Local)": {
+      "cat": "Knowledge",
+      "base": 25
+    },
+    "Elder Race Lore": {
+      "cat": "Knowledge",
+      "base": 5
+    },
+    "Evaluate": {
+      "cat": "Knowledge",
+      "base": 10
+    },
+    "Farm": {
+      "cat": "Knowledge",
+      "base": 10
+    },
+    "First Aid": {
+      "cat": "Knowledge",
+      "base": 10
+    },
+    "Game": {
+      "cat": "Knowledge",
+      "base": 15
+    },
+    "Herd": {
+      "cat": "Knowledge",
+      "base": 5
+    },
+    "Homeland Lore": {
+      "cat": "Knowledge",
+      "base": 30
+    },
+    "Library Use": {
+      "cat": "Knowledge",
+      "base": 0
+    },
+    "Manage Household": {
+      "cat": "Knowledge",
+      "base": 10
+    },
+    "Mineral Lore": {
+      "cat": "Knowledge",
+      "base": 5
+    },
+    "Peaceful Cut": {
+      "cat": "Knowledge",
+      "base": 10
+    },
+    "Plant Lore": {
+      "cat": "Knowledge",
+      "base": 5
+    },
+    "Read/Write (Own)": {
+      "cat": "Knowledge",
+      "base": 0
+    },
+    "Read/Write (Other)": {
+      "cat": "Knowledge",
+      "base": 0
+    },
+    "Shiphandling": {
+      "cat": "Knowledge",
+      "base": 0
+    },
+    "Survival": {
+      "cat": "Knowledge",
+      "base": 15
+    },
+    "Treat Disease": {
+      "cat": "Knowledge",
+      "base": 5
+    },
+    "Treat Poison": {
+      "cat": "Knowledge",
+      "base": 5
+    },
+    "Meditate": {
+      "cat": "Magic",
+      "base": 0
+    },
+    "Prepare Corpse": {
+      "cat": "Magic",
+      "base": 10
+    },
+    "Sense Assassin": {
+      "cat": "Magic",
+      "base": 0
+    },
+    "Sense Chaos": {
+      "cat": "Magic",
+      "base": 0
+    },
+    "Spirit Combat": {
+      "cat": "Magic",
+      "base": 20
+    },
+    "Spirit Dance": {
+      "cat": "Magic",
+      "base": 0
+    },
+    "Spirit Lore": {
+      "cat": "Magic",
+      "base": 0
+    },
+    "Spirit Travel": {
+      "cat": "Magic",
+      "base": 10
+    },
+    "Understand Herd Beast": {
+      "cat": "Magic",
+      "base": 0
+    },
+    "Worship (Cult)": {
+      "cat": "Magic",
+      "base": 5
+    },
+    "Conceal": {
+      "cat": "Manipulation",
+      "base": 5
+    },
+    "Craft": {
+      "cat": "Manipulation",
+      "base": 10
+    },
+    "Devise": {
+      "cat": "Manipulation",
+      "base": 5
+    },
+    "Play Instrument": {
+      "cat": "Manipulation",
+      "base": 5
+    },
+    "Sleight": {
+      "cat": "Manipulation",
+      "base": 5
+    },
+    "Insight": {
+      "cat": "Perception",
+      "base": 20
+    },
+    "Listen": {
+      "cat": "Perception",
+      "base": 25
+    },
+    "Scan": {
+      "cat": "Perception",
+      "base": 25
+    },
+    "Search": {
+      "cat": "Perception",
+      "base": 25
+    },
+    "Track": {
+      "cat": "Perception",
+      "base": 5
+    },
+    "Hide": {
+      "cat": "Stealth",
+      "base": 10
+    },
+    "Move Quietly": {
+      "cat": "Stealth",
+      "base": 10
+    }
+  },
+  "heirlooms": [
+    "Ancestor worshiped as hero (+10% Devotion/Loyalty, +5% Orate, +5% Rep)",
+    "Famous hero ancestor (+10% Orate, +5% Rep)",
+    "Pot of Woad (Bless Woad, 1D6 potency)",
+    "1D3 pots of Rhino Fat (+1 armor to all hit locations for 1 hr)",
+    "Bronze or ceramic votive image (+10% Worship)",
+    "Finely made musical instrument (+10% Play Instrument)",
+    "Necklace with 2-point Glamour spirit magic matrix",
+    "Ancient gold serpent armband with 2-pt matrix",
+    "Awakened small animal companion with 3 pts spirit magic",
+    "1D6 healing potions (heals 1D10 HP each)",
+    "Iron weapon passed down through generations (+2 HP and bypasses parries against non-iron)",
+    "Enchanted silver torc protecting against magical attacks (+2 vs spells)",
+    "Map of the Elder Wilds showing lost ruins and hidden caves",
+    "Scroll written in Old Wyrmish detailing ancient Dragon Pass secrets"
+  ],
+  "familyHistoryEvents": [
+    {
+      "year": 1582,
+      "event": "Battle of Grizzly Peak: King Tarkalor fell fighting the Lunar Empire."
+    },
+    {
+      "year": 1597,
+      "event": "Starbrow's Rebellion: Defeated heroes fled to the hills or were sacrificed."
+    },
+    {
+      "year": 1602,
+      "event": "Boldhome Falls: The flame of Sartar is extinguished by the Lunar Red Emperor."
+    },
+    {
+      "year": 1613,
+      "event": "Starbrow's Return: Short-lived uprising brutally suppressed."
+    },
+    {
+      "year": 1615,
+      "event": "Great Winter begins: Sun does not rise properly, famine grips Dragon Pass."
+    },
+    {
+      "year": 1621,
+      "event": "Windstop: The Wind dies completely; Sartarites preserve holy rituals."
+    },
+    {
+      "year": 1625,
+      "event": "The Dragonrise! A giant True Dragon awakens beneath the new Lunar Temple, devouring the Lunar army! Freedom is proclaimed!"
+    }
+  ],
+  "pregens": [
+    {
+      "id": "pregen-vasana",
+      "name": "Vasana Farnan's Daughter",
+      "homeland": "Sartar",
+      "tribe": "Colymar",
+      "clan": "Ernaldori",
+      "occupation": "Warrior (Heavy Cavalry)",
+      "cult": "Orlanth",
+      "subcult": "Vinga Adventurous",
+      "runePoints": 3,
+      "gender": "Female",
+      "age": 21,
+      "reputation": 18,
+      "stats": {
+        "STR": 16,
+        "CON": 12,
+        "SIZ": 10,
+        "DEX": 11,
+        "INT": 15,
+        "POW": 15,
+        "CHA": 19
+      },
+      "runes": {
+        "Air": 90,
+        "Moon": 50,
+        "Earth": 20,
+        "Darkness": 0,
+        "Fire/Sky": 0,
+        "Water": 0,
+        "Death": 75,
+        "Fertility": 25,
+        "Movement": 75,
+        "Stasis": 25,
+        "Truth": 70,
+        "Illusion": 30,
+        "Harmony": 50,
+        "Disorder": 50,
+        "Man": 50,
+        "Beast": 50
+      },
+      "passions": [
+        {
+          "name": "Honor",
+          "value": 90
+        },
+        {
+          "name": "Devotion (Orlanth)",
+          "value": 80
+        },
+        {
+          "name": "Loyalty (Sartar)",
+          "value": 70
+        },
+        {
+          "name": "Loyalty (Colymar Tribe)",
+          "value": 60
+        },
+        {
+          "name": "Loyalty (Ernaldori Clan)",
+          "value": 60
+        },
+        {
+          "name": "Love (Family)",
+          "value": 60
+        },
+        {
+          "name": "Hate (Lunar Empire)",
+          "value": 70
+        }
+      ],
+      "skills": {
+        "Ride (Bison)": 45,
+        "Dance": 15,
+        "Sing": 40,
+        "Orate": 25,
+        "Speak (Heortling)": 50,
+        "Speak (Stormspeech)": 20,
+        "Speak (Tradetalk)": 10,
+        "Battle": 70,
+        "Cult Lore (Orlanth)": 20,
+        "Customs (Heortling)": 30,
+        "Farm": 30,
+        "First Aid": 20,
+        "Herd": 15,
+        "Meditate": 5,
+        "Spirit Combat": 35,
+        "Worship (Orlanth)": 25,
+        "Broadsword": 60,
+        "Battle Axe": 40,
+        "Lance": 40,
+        "Composite Bow": 40,
+        "Dagger": 25,
+        "Javelin": 20,
+        "Medium Shield": 50,
+        "Large Shield": 25,
+        "Listen": 35,
+        "Scan": 35
+      },
+      "spiritMagic": [
+        {
+          "name": "Bladesharp",
+          "points": 2
+        },
+        {
+          "name": "Demoralize",
+          "points": 2
+        },
+        {
+          "name": "Heal",
+          "points": 2
+        },
+        {
+          "name": "Mobility",
+          "points": 1
+        }
+      ],
+      "runeMagic": [
+        "Lightning",
+        "Shield",
+        "Summon Air Elemental"
+      ],
+      "hitLocations": {
+        "Right Leg": {
+          "maxHp": 4,
+          "currentHp": 4,
+          "armor": 6,
+          "range": "01–04"
+        },
+        "Left Leg": {
+          "maxHp": 4,
+          "currentHp": 4,
+          "armor": 6,
+          "range": "05–08"
+        },
+        "Abdomen": {
+          "maxHp": 4,
+          "currentHp": 4,
+          "armor": 5,
+          "range": "09–11"
+        },
+        "Chest": {
+          "maxHp": 5,
+          "currentHp": 5,
+          "armor": 5,
+          "range": "12"
+        },
+        "Right Arm": {
+          "maxHp": 3,
+          "currentHp": 3,
+          "armor": 6,
+          "range": "13–15"
+        },
+        "Left Arm": {
+          "maxHp": 3,
+          "currentHp": 3,
+          "armor": 6,
+          "range": "16–18"
+        },
+        "Head": {
+          "maxHp": 4,
+          "currentHp": 4,
+          "armor": 5,
+          "range": "19–20"
+        }
+      },
+      "totalHp": 12,
+      "currentHp": 12,
+      "totalMp": 15,
+      "currentMp": 15,
+      "currentRp": 3,
+      "heirloom": "Iron-headed broadsword of Farnan",
+      "notes": "Vasana is a small but athletic woman with red hair and a terrible scar across the left half of her face. Devoted Vingan cavalry champion.",
+      "damageBonus": "+1D4",
+      "spiritCombatDamage": "1D6+3",
+      "healingRate": 2,
+      "dexSr": 3,
+      "sizSr": 2,
+      "meleeSr": 5,
+      "maxEnc": 14
+    },
+    {
+      "id": "pregen-yanioth",
+      "name": "Yanioth Vareena's Daughter",
+      "homeland": "Esrolia",
+      "city": "Nochet",
+      "clan": "Harandings",
+      "occupation": "Priest",
+      "cult": "Ernalda",
+      "subcult": "The Mother",
+      "runePoints": 3,
+      "gender": "Female",
+      "age": 21,
+      "reputation": 15,
+      "stats": {
+        "STR": 11,
+        "CON": 13,
+        "SIZ": 12,
+        "DEX": 12,
+        "INT": 14,
+        "POW": 17,
+        "CHA": 16
+      },
+      "runes": {
+        "Earth": 85,
+        "Harmony": 75,
+        "Fertility": 75,
+        "Water": 30,
+        "Darkness": 20,
+        "Air": 0,
+        "Fire/Sky": 0,
+        "Moon": 0,
+        "Disorder": 25,
+        "Death": 25,
+        "Stasis": 50,
+        "Movement": 50,
+        "Truth": 50,
+        "Illusion": 50,
+        "Man": 50,
+        "Beast": 50
+      },
+      "passions": [
+        {
+          "name": "Love (Family)",
+          "value": 75
+        },
+        {
+          "name": "Devotion (Ernalda)",
+          "value": 80
+        },
+        {
+          "name": "Loyalty (Nochet)",
+          "value": 60
+        },
+        {
+          "name": "Loyalty (Temple)",
+          "value": 65
+        }
+      ],
+      "skills": {
+        "Sing": 30,
+        "Dance": 30,
+        "Customs (Esrolian)": 40,
+        "Speak (Esrolian)": 50,
+        "Speak (Earthtongue)": 20,
+        "Speak (Tradetalk)": 30,
+        "Farm": 45,
+        "Manage Household": 40,
+        "First Aid": 35,
+        "Treat Disease": 25,
+        "Cult Lore (Ernalda)": 35,
+        "Worship (Ernalda)": 40,
+        "Meditate": 25,
+        "Spirit Combat": 35,
+        "1H Axe (Battle Axe)": 35,
+        "Dagger": 25,
+        "Small Shield": 35,
+        "Insight": 35,
+        "Listen": 35,
+        "Scan": 35
+      },
+      "spiritMagic": [
+        {
+          "name": "Befuddle",
+          "points": 2
+        },
+        {
+          "name": "Glamour",
+          "points": 2
+        },
+        {
+          "name": "Heal",
+          "points": 2
+        },
+        {
+          "name": "Shimmer",
+          "points": 1
+        }
+      ],
+      "runeMagic": [
+        "Bless Crops",
+        "Charisma",
+        "Earth Shield",
+        "Heal Body",
+        "Summon Earth Elemental"
+      ],
+      "hitLocations": {
+        "Right Leg": {
+          "maxHp": 5,
+          "currentHp": 5,
+          "armor": 1,
+          "range": "01–04"
+        },
+        "Left Leg": {
+          "maxHp": 5,
+          "currentHp": 5,
+          "armor": 1,
+          "range": "05–08"
+        },
+        "Abdomen": {
+          "maxHp": 5,
+          "currentHp": 5,
+          "armor": 2,
+          "range": "09–11"
+        },
+        "Chest": {
+          "maxHp": 6,
+          "currentHp": 6,
+          "armor": 2,
+          "range": "12"
+        },
+        "Right Arm": {
+          "maxHp": 4,
+          "currentHp": 4,
+          "armor": 0,
+          "range": "13–15"
+        },
+        "Left Arm": {
+          "maxHp": 4,
+          "currentHp": 4,
+          "armor": 0,
+          "range": "16–18"
+        },
+        "Head": {
+          "maxHp": 5,
+          "currentHp": 5,
+          "armor": 1,
+          "range": "19–20"
+        }
+      },
+      "totalHp": 14,
+      "currentHp": 14,
+      "totalMp": 17,
+      "currentMp": 17,
+      "currentRp": 3,
+      "heirloom": "Enchanted torc of Grandmother Vareena",
+      "notes": "Yanioth is a radiant and poised priestess of Ernalda, gifted in diplomacy, family leadership, and deep earth mysteries.",
+      "damageBonus": "None",
+      "spiritCombatDamage": "1D6+3",
+      "healingRate": 3,
+      "dexSr": 3,
+      "sizSr": 2,
+      "meleeSr": 5,
+      "maxEnc": 11
+    }
+  ],
+  "spiritMagicCatalog": [
+    {
+      "name": "Befuddle",
+      "points": 2,
+      "range": "Ranged",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Confuses and incapacitates a target unless they only parry/dodge."
+    },
+    {
+      "name": "Binding Enchantment",
+      "points": 1,
+      "range": "Touch",
+      "duration": "Permanent",
+      "type": "Ritual",
+      "description": "Creates a condition to bind a spirit or elemental into an object."
+    },
+    {
+      "name": "Bladesharp",
+      "points": "var",
+      "defaultPoints": 2,
+      "range": "Touch",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "+5% attack chance and +1 damage per point on an edged weapon."
+    },
+    {
+      "name": "Bludgeon",
+      "points": "var",
+      "defaultPoints": 2,
+      "range": "Touch",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "+5% attack chance and +1 damage per point on a crushing weapon."
+    },
+    {
+      "name": "Coordination",
+      "points": 2,
+      "range": "Touch",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Increases DEX by +2 (up to 1.5x original DEX)."
+    },
+    {
+      "name": "Countermagic",
+      "points": "var",
+      "defaultPoints": 2,
+      "range": "Ranged",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Shields target against hostile spirit and Rune magic up to its point value."
+    },
+    {
+      "name": "Darkwall",
+      "points": 2,
+      "range": "Ranged",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Creates an impenetrable wall or globe of darkness (5m radius)."
+    },
+    {
+      "name": "Demoralize",
+      "points": 2,
+      "range": "Ranged",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Fills target with doubt; halves weapon skills and prevents offensive magic."
+    },
+    {
+      "name": "Detect Enemies",
+      "points": 1,
+      "range": "Ranged",
+      "duration": "Instant",
+      "type": "Instant",
+      "description": "Reveals any beings intending harm within 50 meters."
+    },
+    {
+      "name": "Detect Gems",
+      "points": 1,
+      "range": "Ranged",
+      "duration": "Instant",
+      "type": "Instant",
+      "description": "Detects precious stones within 50 meters."
+    },
+    {
+      "name": "Detect Gold",
+      "points": 1,
+      "range": "Ranged",
+      "duration": "Instant",
+      "type": "Instant",
+      "description": "Detects gold within 50 meters."
+    },
+    {
+      "name": "Detect Life",
+      "points": 1,
+      "range": "Ranged",
+      "duration": "Instant",
+      "type": "Instant",
+      "description": "Detects living creatures of a specified type within 50 meters."
+    },
+    {
+      "name": "Detect Magic",
+      "points": 1,
+      "range": "Ranged",
+      "duration": "Instant",
+      "type": "Instant",
+      "description": "Reveals enchanted items, active spells, or spirits within 50 meters."
+    },
+    {
+      "name": "Detect Silver",
+      "points": 1,
+      "range": "Ranged",
+      "duration": "Instant",
+      "type": "Instant",
+      "description": "Detects silver within 50 meters."
+    },
+    {
+      "name": "Detect Spirit",
+      "points": 1,
+      "range": "Ranged",
+      "duration": "Instant",
+      "type": "Instant",
+      "description": "Detects disembodied spirits within 50 meters."
+    },
+    {
+      "name": "Detect Trap",
+      "points": 2,
+      "range": "Ranged",
+      "duration": "Instant",
+      "type": "Instant",
+      "description": "Reveals mechanical or magical traps within 50 meters."
+    },
+    {
+      "name": "Detect Undead",
+      "points": 1,
+      "range": "Ranged",
+      "duration": "Instant",
+      "type": "Instant",
+      "description": "Detects undead beings within 50 meters."
+    },
+    {
+      "name": "Dispel Magic",
+      "points": "var",
+      "defaultPoints": 2,
+      "range": "Ranged",
+      "duration": "Instant",
+      "type": "Instant",
+      "description": "Eliminates points of active spirit magic (or 2 pts per 1 pt of Rune magic)."
+    },
+    {
+      "name": "Disruption",
+      "points": 1,
+      "range": "Ranged",
+      "duration": "Instant",
+      "type": "Instant",
+      "description": "Inflicts 1D3 damage to a random hit location, ignoring armor."
+    },
+    {
+      "name": "Dullblade",
+      "points": "var",
+      "defaultPoints": 2,
+      "range": "Ranged",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Reduces weapon attack by -5% and damage by -1 per point."
+    },
+    {
+      "name": "Extinguish",
+      "points": "var",
+      "defaultPoints": 1,
+      "range": "Ranged",
+      "duration": "Instant",
+      "type": "Instant",
+      "description": "Puts out flames (1 pt = torch, 2 pts = campfire, 3 pts = bonfire)."
+    },
+    {
+      "name": "Fanaticism",
+      "points": 1,
+      "range": "Ranged",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Increases melee weapon attack by +50%, but target cannot parry, dodge, or cast spells."
+    },
+    {
+      "name": "Farsee",
+      "points": "var",
+      "defaultPoints": 1,
+      "range": "Ranged",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Halves distance for visual perception per point."
+    },
+    {
+      "name": "Firearrow",
+      "points": 2,
+      "range": "Touch",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Missile bursts into flame, dealing 3D6 fire damage instead of normal damage."
+    },
+    {
+      "name": "Fireblade",
+      "points": 4,
+      "range": "Touch",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Melee blade turns to fire, dealing 3D6 fire damage (no damage bonus)."
+    },
+    {
+      "name": "Glamour",
+      "points": 2,
+      "range": "Touch",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Increases CHA by +2 (up to 1.5x original CHA) and +15% to Communication skills."
+    },
+    {
+      "name": "Glue",
+      "points": "var",
+      "defaultPoints": 2,
+      "range": "Touch",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Creates a sticky patch with STR equal to 5 per point."
+    },
+    {
+      "name": "Heal",
+      "points": "var",
+      "defaultPoints": 2,
+      "range": "Touch",
+      "duration": "Instant",
+      "type": "Instant",
+      "description": "Heals 1 HP per point to a single hit location (6+ pts reattaches severed limb)."
+    },
+    {
+      "name": "Ignite",
+      "points": 1,
+      "range": "Ranged",
+      "duration": "Instant",
+      "type": "Instant",
+      "description": "Sets a flammable object or dry material on fire."
+    },
+    {
+      "name": "Invisibility",
+      "points": 3,
+      "range": "Ranged",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Renders target transparent; attackers suffer -40% penalty."
+    },
+    {
+      "name": "Lantern",
+      "points": 1,
+      "range": "Touch",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Causes an inanimate object to glow with torchlight in a 3m radius."
+    },
+    {
+      "name": "Light",
+      "points": 1,
+      "range": "Ranged",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Illuminates a 10m radius area around a target point."
+    },
+    {
+      "name": "Lightwall",
+      "points": 4,
+      "range": "Ranged",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Creates a blinding wall or globe of brilliant light (5m radius)."
+    },
+    {
+      "name": "Mindspeech",
+      "points": "var",
+      "defaultPoints": 1,
+      "range": "Ranged",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Allows telepathic communication with 1 intelligent target per point."
+    },
+    {
+      "name": "Mobility",
+      "points": 1,
+      "range": "Ranged",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Increases target Movement Rate (MOV) by +4."
+    },
+    {
+      "name": "Multimissile",
+      "points": "var",
+      "defaultPoints": 2,
+      "range": "Touch",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Duplicates a thrown/fired missile, adding 1 magic missile per point."
+    },
+    {
+      "name": "Parry",
+      "points": "var",
+      "defaultPoints": 2,
+      "range": "Touch",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Increases parry chance with a weapon or shield by +5% per point."
+    },
+    {
+      "name": "Protection",
+      "points": "var",
+      "defaultPoints": 2,
+      "range": "Ranged",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Adds +1 Armor Point (AP) per point to all hit locations."
+    },
+    {
+      "name": "Repair",
+      "points": "var",
+      "defaultPoints": 2,
+      "range": "Touch",
+      "duration": "Instant",
+      "type": "Instant",
+      "description": "Restores 1D6 Armor Points / HP per point to a damaged inanimate object."
+    },
+    {
+      "name": "Second Sight",
+      "points": 3,
+      "range": "Ranged",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Allows caster to see POW auras, spirits, and Rune affinities."
+    },
+    {
+      "name": "Shimmer",
+      "points": "var",
+      "defaultPoints": 2,
+      "range": "Ranged",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Distorts visual outline, reducing physical attack chances against target by -5% per point."
+    },
+    {
+      "name": "Silence",
+      "points": 1,
+      "range": "Ranged",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Suppresses sound made by target, adding +20% to Move Quietly."
+    },
+    {
+      "name": "Sleep",
+      "points": 3,
+      "range": "Ranged",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Puts target into a deep magical slumber until awakened or harmed."
+    },
+    {
+      "name": "Slow",
+      "points": 1,
+      "range": "Ranged",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Halves target Movement Rate (MOV)."
+    },
+    {
+      "name": "Speedart",
+      "points": 1,
+      "range": "Touch",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Adds +15% attack chance and +3 damage to a single missile."
+    },
+    {
+      "name": "Spirit Binding",
+      "points": 1,
+      "range": "Ranged",
+      "duration": "Instant",
+      "type": "Ritual",
+      "description": "Binds a defeated spirit (at 0 MP) into a prepared binding enchantment."
+    },
+    {
+      "name": "Spirit Screen",
+      "points": "var",
+      "defaultPoints": 2,
+      "range": "Ranged",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Reduces spirit combat damage suffered by target by 2 points per point."
+    },
+    {
+      "name": "Strength",
+      "points": 2,
+      "range": "Touch",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Increases STR by +3 (up to 1.5x original STR)."
+    },
+    {
+      "name": "Vigor",
+      "points": 2,
+      "range": "Touch",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Increases CON by +3 (up to 1.5x original CON) and adjusts HP accordingly."
+    },
+    {
+      "name": "Visibility",
+      "points": 2,
+      "range": "Ranged",
+      "duration": "Temporal",
+      "type": "Passive",
+      "description": "Forces a discorporate spirit to become visible to normal sight."
+    }
+  ],
+  "specialRuneMagicCatalog": {
+    "Absorption": {
+      "cost": "1+",
+      "rune": "Earth",
+      "description": "Absorbs up to 1 point of enemy spell per RP and converts it to Magic Points."
+    },
+    "Analyze Magic": {
+      "cost": 1,
+      "rune": "Truth",
+      "description": "Identifies all spells, enchantments, and magical properties on an item or person."
+    },
+    "Axe Trance": {
+      "cost": 1,
+      "rune": "Earth",
+      "description": "Increases 1H/2H Axe skill to 100% (or +20% per RP) while in battle trance."
+    },
+    "Axis Mundi": {
+      "cost": 1,
+      "rune": "Spirit",
+      "description": "Opens a direct passage between the Mundane World and the Spirit World."
+    },
+    "Banish Spirit": {
+      "cost": "1+",
+      "rune": "Death",
+      "description": "Forces a spirit out of the Mundane World back into the Spirit World."
+    },
+    "Bear Fruit": {
+      "cost": 1,
+      "rune": "Fertility",
+      "description": "Causes a mature plant or tree to immediately blossom and produce edible fruit."
+    },
+    "Bear’s Strength": {
+      "cost": 1,
+      "rune": "Beast",
+      "description": "Doubles the target’s STR for 15 minutes."
+    },
+    "Bearskin": {
+      "cost": 2,
+      "rune": "Beast",
+      "description": "Grants +5 natural armor points, +4 CON, and immunity to Countermagic/Dispel Magic."
+    },
+    "Beastmaster": {
+      "cost": 2,
+      "rune": "Beast",
+      "description": "Commands a wild animal to obey the caster."
+    },
+    "Become Other": {
+      "cost": 2,
+      "rune": "Illusion",
+      "description": "Transforms caster into an exact physical double of another person."
+    },
+    "Berserker": {
+      "cost": 2,
+      "rune": "Death",
+      "description": "Doubles CON, +50% melee attack, +2 AP skin, immune to unconsciousness/emotions."
+    },
+    "Bind Ghost": {
+      "cost": 1,
+      "rune": "Death",
+      "description": "Binds a ghost to guard a specific place or item."
+    },
+    "Blast Earth": {
+      "cost": 2,
+      "rune": "Disorder",
+      "description": "Explodes a 3m cube of earth or stone, dealing 3D6 damage to all within."
+    },
+    "Bless Animals": {
+      "cost": "1+",
+      "rune": "Beast",
+      "description": "Ritually blesses a herd so females bear healthy offspring and resist disease."
+    },
+    "Bless Crops": {
+      "cost": "1+",
+      "rune": "Fertility",
+      "description": "Ritually blesses farmland, adding +20% to Farm rolls per RP."
+    },
+    "Bless Hunting Dog": {
+      "cost": 1,
+      "rune": "Beast",
+      "description": "Doubles a hound’s Track, Listen, and Scan skills."
+    },
+    "Bless Pregnancy": {
+      "cost": "1+",
+      "rune": "Fertility",
+      "description": "Ensures a safe pregnancy and healthy childbirth."
+    },
+    "Breathe Air/Water": {
+      "cost": 1,
+      "rune": "Water",
+      "description": "Allows target to breathe underwater (or a water creature to breathe air)."
+    },
+    "Butcher": {
+      "cost": 1,
+      "rune": "Death",
+      "description": "Doubles Peaceful Cut skill and instantly slaughters and dresses a herd beast."
+    },
+    "Call Clouds": {
+      "cost": "1+",
+      "rune": "Air",
+      "description": "Summons clouds to cover the sky within 1 km per RP."
+    },
+    "Call Wind": {
+      "cost": "1+",
+      "rune": "Air",
+      "description": "Increases wind strength by +3D6 per RP or shifts wind direction."
+    },
+    "Cancel Spirit Magic": {
+      "cost": 1,
+      "rune": "Harmony",
+      "description": "Prevents target from casting any Spirit Magic for 15 minutes."
+    },
+    "Catseye": {
+      "cost": 1,
+      "rune": "Beast",
+      "description": "Allows the target to see clearly in darkness or starlight as if daylight."
+    },
+    "Chaos Gift": {
+      "cost": 2,
+      "rune": "Moon",
+      "description": "Bestows a random Chaotic feature upon the target for 15 minutes."
+    },
+    "Chaos Spawn": {
+      "cost": 2,
+      "rune": "Moon",
+      "description": "Summons a lesser creature of Chaos or broo."
+    },
+    "Charisma": {
+      "cost": 1,
+      "rune": "Fertility",
+      "description": "Doubles the caster’s CHA for 15 minutes."
+    },
+    "Clairvoyance": {
+      "cost": 2,
+      "rune": "Truth",
+      "description": "Views a distant location up to 5 km away."
+    },
+    "Claw": {
+      "cost": 1,
+      "rune": "Beast",
+      "description": "Transforms hands into bear claws (75% skill, 1D6+1 + DB damage, magical)."
+    },
+    "Claws": {
+      "cost": 1,
+      "rune": "Beast",
+      "description": "Transforms hands into shadowcat claws (75% skill, 1D6 + DB damage, magical)."
+    },
+    "Clear Path": {
+      "cost": 1,
+      "rune": "Movement",
+      "description": "Clears obstacles, brush, and debris from a trail as the caster walks."
+    },
+    "Cloud Clear": {
+      "cost": "1+",
+      "rune": "Fire/Sky",
+      "description": "Dispels clouds from the sky over a 1 km radius per RP."
+    },
+    "Combine": {
+      "cost": 1,
+      "rune": "Beast",
+      "description": "Merges caster’s mind with a shadowcat to perceive through its senses."
+    },
+    "Comfort Song": {
+      "cost": 1,
+      "rune": "Harmony",
+      "description": "Soothes pain and grief, freeing listeners from fear, demoralization, or madness."
+    },
+    "Command Beast": {
+      "cost": 2,
+      "rune": "Beast",
+      "description": "Compels a herd beast to obey the caster."
+    },
+    "Command Dinosaur": {
+      "cost": 2,
+      "rune": "Earth",
+      "description": "Compels a dinosaur to obey the caster."
+    },
+    "Command Ghost": {
+      "cost": 2,
+      "rune": "Spirit",
+      "description": "Compels a ghost or ancestor spirit to obey the caster."
+    },
+    "Command Horse": {
+      "cost": 2,
+      "rune": "Fire/Sky",
+      "description": "Compels a horse to obey the caster."
+    },
+    "Command Snake": {
+      "cost": 1,
+      "rune": "Earth",
+      "description": "Compels a snake or serpent spirit to obey the caster."
+    },
+    "Control Lune": {
+      "cost": 2,
+      "rune": "Moon",
+      "description": "Commands an unbound Lune."
+    },
+    "Create Fissure": {
+      "cost": 3,
+      "rune": "Disorder",
+      "description": "Opens a chasm 6m deep and 3m wide in the earth."
+    },
+    "Create Market": {
+      "cost": 2,
+      "rune": "Harmony",
+      "description": "Establishes a sacred neutral marketplace protected by Warding and Issaries’ peace."
+    },
+    "Create Shadow": {
+      "cost": 1,
+      "rune": "Darkness",
+      "description": "Creates a 10m radius area of soothing shade and dim shadow."
+    },
+    "Crush": {
+      "cost": 1,
+      "rune": "Earth",
+      "description": "Doubles the damage bonus of a blunt/crushing weapon for 15 minutes."
+    },
+    "Cure All Disease": {
+      "cost": 1,
+      "rune": "Harmony",
+      "description": "Immediately cures target of any natural or magical disease."
+    },
+    "Cure Chaos Wound": {
+      "cost": 1,
+      "rune": "Harmony",
+      "description": "Purifies a wound inflicted by Chaos so it can be healed by magic."
+    },
+    "Cure Poison": {
+      "cost": 1,
+      "rune": "Harmony",
+      "description": "Neutralizes any poison or venom in the target’s body and restores lost CON."
+    },
+    "Dark Walk": {
+      "cost": 1,
+      "rune": "Darkness",
+      "description": "Allows target to move silently (+35% Move Quietly/Hide) and see in total darkness."
+    },
+    "Detect Truth": {
+      "cost": 1,
+      "rune": "Truth",
+      "description": "Caster immediately knows whether a speaker is telling the truth or lying."
+    },
+    "Discorporation": {
+      "cost": 1,
+      "rune": "Spirit",
+      "description": "Separates the caster’s spirit from their physical body to travel in the Spirit World."
+    },
+    "Dismiss Air Elemental": {
+      "cost": "1+",
+      "rune": "Air",
+      "description": "Banishes an Air Elemental (1 pt = Small, 2 pts = Medium, 3 pts = Large)."
+    },
+    "Dismiss Darkness Elemental": {
+      "cost": "1+",
+      "rune": "Darkness",
+      "description": "Banishes a Darkness Elemental (1 pt = Small, 2 pts = Medium, 3 pts = Large)."
+    },
+    "Dismiss Earth Elemental": {
+      "cost": "1+",
+      "rune": "Earth",
+      "description": "Banishes an Earth Elemental (1 pt = Small, 2 pts = Medium, 3 pts = Large)."
+    },
+    "Dismiss Elemental": {
+      "cost": "1+",
+      "rune": "Moon",
+      "description": "Banishes any elemental (1 pt = Small, 2 pts = Medium, 3 pts = Large)."
+    },
+    "Dismiss Fire Elemental": {
+      "cost": "1+",
+      "rune": "Fire/Sky",
+      "description": "Banishes a Fire Elemental (1 pt = Small, 2 pts = Medium, 3 pts = Large)."
+    },
+    "Dismiss Lune": {
+      "cost": "1+",
+      "rune": "Moon",
+      "description": "Banishes a Lune (1 pt = Small, 2 pts = Medium, 3 pts = Large)."
+    },
+    "Dismiss Small Fire Elemental": {
+      "cost": 1,
+      "rune": "Fire/Sky",
+      "description": "Banishes a Small Fire Elemental."
+    },
+    "Dismiss Water Elemental": {
+      "cost": "1+",
+      "rune": "Water",
+      "description": "Banishes a Water Elemental (1 pt = Small, 2 pts = Medium, 3 pts = Large)."
+    },
+    "Draw Beast": {
+      "cost": 1,
+      "rune": "Death",
+      "description": "Attracts a game animal within 1 km toward the hunter."
+    },
+    "Earth Shield": {
+      "cost": 3,
+      "rune": "Earth",
+      "description": "Grants +6 armor points and +6 points of Countermagic while touching the ground."
+    },
+    "Earthpower": {
+      "cost": 2,
+      "rune": "Earth",
+      "description": "Neutralizes all hostile Air and Storm magic within 25 meters."
+    },
+    "Earthquake": {
+      "cost": 3,
+      "rune": "Disorder",
+      "description": "Violently shakes a 50m radius area, collapsing structures and knocking down foes."
+    },
+    "Enchant (Animal) Part": {
+      "cost": 1,
+      "rune": "Death",
+      "description": "Ritually enchants a bone, hide, or Sinew from a peacefully cut animal."
+    },
+    "Enchant Lead": {
+      "cost": 1,
+      "rune": "Darkness",
+      "description": "Ritually enchants unworked lead into dark-metal capable of harming spirits."
+    },
+    "Face Chaos": {
+      "cost": 1,
+      "rune": "Death",
+      "description": "Grants immunity to Demoralize and Fear when fighting Chaos."
+    },
+    "Fear": {
+      "cost": 1,
+      "rune": "Air",
+      "description": "Strikes terror into an enemy, forcing them to flee or surrender."
+    },
+    "Fight Disease": {
+      "cost": "1+",
+      "rune": "Fire/Sky",
+      "description": "Adds +25% per RP to the patient’s CON roll to resist disease."
+    },
+    "Find Substance": {
+      "cost": "1+",
+      "rune": "Truth",
+      "description": "Locates a specified mineral, metal, or substance within range."
+    },
+    "Fireshield": {
+      "cost": "1+",
+      "rune": "Water",
+      "description": "Reduces all fire and heat damage suffered by 2D6 per RP."
+    },
+    "Flight": {
+      "cost": "1+",
+      "rune": "Air",
+      "description": "Allows target (up to 12 SIZ/ENC per RP) to fly through the air at MOV 12."
+    },
+    "Free Ghost": {
+      "cost": 1,
+      "rune": "Spirit",
+      "description": "Releases a bound ghost and sends it to the Courts of Silence."
+    },
+    "Gnaw": {
+      "cost": 1,
+      "rune": "Earth",
+      "description": "Rots and weakens wooden or organic items (reducing HP by 2D6)."
+    },
+    "Hallucinate": {
+      "cost": "1+",
+      "rune": "Illusion",
+      "description": "Traps target in a vivid, all-encompassing sensory illusion."
+    },
+    "Harmony": {
+      "cost": 2,
+      "rune": "Harmony",
+      "description": "Calms all combatants within 20m, ending fighting unless attacked."
+    },
+    "Heal Body": {
+      "cost": 3,
+      "rune": "Fertility",
+      "description": "Completely restores all HP, reattaches limbs, and stops all bleeding."
+    },
+    "Heal Mind": {
+      "cost": 2,
+      "rune": "Harmony",
+      "description": "Cures madness, feeblemindedness, or psychological trauma."
+    },
+    "Healing Trance": {
+      "cost": 1,
+      "rune": "Fertility",
+      "description": "Places patient into deep regenerative sleep that doubles natural healing."
+    },
+    "Hibernation": {
+      "cost": 1,
+      "rune": "Beast",
+      "description": "Enters a winter sleep requiring no food or water for up to a season."
+    },
+    "Identify Scent": {
+      "cost": 1,
+      "rune": "Beast",
+      "description": "Grants shadowcat-keen smell (+50% Track by scent)."
+    },
+    "Illusory Motion": {
+      "cost": 1,
+      "rune": "Illusion",
+      "description": "Grants movement to an Illusory Sight."
+    },
+    "Illusory Odor": {
+      "cost": 1,
+      "rune": "Illusion",
+      "description": "Creates a realistic phantom smell or taste."
+    },
+    "Illusory Sight": {
+      "cost": 1,
+      "rune": "Illusion",
+      "description": "Creates a visual illusion up to SIZ 20."
+    },
+    "Illusory Sound": {
+      "cost": 1,
+      "rune": "Illusion",
+      "description": "Creates realistic phantom sounds or voices."
+    },
+    "Illusory Substance": {
+      "cost": 1,
+      "rune": "Illusion",
+      "description": "Gives physical solidity and weight to an illusion."
+    },
+    "Impede Chaos": {
+      "cost": "1+",
+      "rune": "Death",
+      "description": "Prevents a Chaos creature from using Chaotic features or casting magic."
+    },
+    "Incarnate Ancestor": {
+      "cost": 2,
+      "rune": "Man",
+      "description": "Summons an ancestor spirit into an artificial body or willing host."
+    },
+    "Inviolable": {
+      "cost": 1,
+      "rune": "Harmony",
+      "description": "Attackers must overcome caster’s POW or be unable to strike the priestess."
+    },
+    "Kinship": {
+      "cost": 1,
+      "rune": "Beast",
+      "description": "Reveals whether two creatures are related by blood and greets felines as kin."
+    },
+    "Knowledge": {
+      "cost": 2,
+      "rune": "Truth",
+      "description": "Reveals the history and origin of an object held by the sage."
+    },
+    "Leap": {
+      "cost": 1,
+      "rune": "Movement",
+      "description": "Allows caster to leap up to 20 meters horizontally or 10 meters vertically."
+    },
+    "Lie": {
+      "cost": 1,
+      "rune": "Illusion",
+      "description": "Makes a spoken falsehood completely believable, fooling even Detect Truth."
+    },
+    "Lightning": {
+      "cost": "1+",
+      "rune": "Air",
+      "description": "Hurls a bolt of lightning dealing 1D6 electrical damage per RP (ignores armor)."
+    },
+    "Lock": {
+      "cost": 1,
+      "rune": "Stasis",
+      "description": "Magically seals a door, chest, or portal (+20 STR to force open)."
+    },
+    "Madness": {
+      "cost": 2,
+      "rune": "Moon",
+      "description": "Afflicts target with lunar lunacy or debilitating phobia."
+    },
+    "Mind Read": {
+      "cost": 1,
+      "rune": "Truth",
+      "description": "Reads the surface thoughts of a target within range."
+    },
+    "Mindblast": {
+      "cost": 2,
+      "rune": "Moon",
+      "description": "Shatters target’s mind, halving INT and preventing magic casting for 15 minutes."
+    },
+    "Mist Cloud": {
+      "cost": "1+",
+      "rune": "Water",
+      "description": "Blankets a 50m radius per RP in thick fog, obscuring vision beyond 1.5m."
+    },
+    "Moonburn": {
+      "cost": 2,
+      "rune": "Moon",
+      "description": "Burns target with cold crimson moonlight for 2D6 damage ignoring armor."
+    },
+    "Morale": {
+      "cost": 2,
+      "rune": "Truth",
+      "description": "Grants allies within 25m +25% to weapon skills and immunity to Demoralize/Fear."
+    },
+    "Multiply Beasts": {
+      "cost": 2,
+      "rune": "Fertility",
+      "description": "Ensures twin births for blessed herd animals."
+    },
+    "Oath": {
+      "cost": 1,
+      "rune": "Truth",
+      "description": "Binds sworn parties to a sacred pact; oathbreakers suffer immediate 6D6 internal damage."
+    },
+    "Order": {
+      "cost": 1,
+      "rune": "Truth",
+      "description": "Compels a subordinate within the cult hierarchy to obey a lawful command."
+    },
+    "Passage": {
+      "cost": 1,
+      "rune": "Movement",
+      "description": "Opens a temporary 2m doorway through a solid wall or barrier."
+    },
+    "Path Watch": {
+      "cost": 1,
+      "rune": "Movement",
+      "description": "Alerts caster to any ambushes, hazards, or pursuit along a road for 1 day."
+    },
+    "Peace": {
+      "cost": 2,
+      "rune": "Harmony",
+      "description": "Prevents violence within the blessed herd or sanctuary."
+    },
+    "Rain": {
+      "cost": 2,
+      "rune": "Water",
+      "description": "Causes rain (or snow) to fall from clouds over a 1 km radius."
+    },
+    "Read Language": {
+      "cost": 1,
+      "rune": "Truth",
+      "description": "Allows the sage to read any written script at 80% skill for 15 minutes."
+    },
+    "Reconstruction": {
+      "cost": 3,
+      "rune": "Truth",
+      "description": "Visually replays past events that occurred at the caster’s location."
+    },
+    "Reflection": {
+      "cost": "1+",
+      "rune": "Moon",
+      "description": "Reflects hostile spells of up to its RP value back at the original caster."
+    },
+    "Regrow Limb": {
+      "cost": 2,
+      "rune": "Fertility",
+      "description": "Regenerates a severed or maimed limb over 1 week."
+    },
+    "Reproduction": {
+      "cost": 2,
+      "rune": "Fertility",
+      "description": "Ensures conception between compatible mates."
+    },
+    "Restore Health": {
+      "cost": "1+",
+      "rune": "Fertility",
+      "description": "Restores 1D3 permanently lost characteristic points per RP spent."
+    },
+    "Resurrect": {
+      "cost": 3,
+      "rune": "Fertility",
+      "description": "Returns a recently slain adventurer’s soul from the Underworld to their healed body."
+    },
+    "Safe": {
+      "cost": "1+",
+      "rune": "Stasis",
+      "description": "Protects stored goods from theft, spoilage, or vermin."
+    },
+    "Sever Spirit": {
+      "cost": 3,
+      "rune": "Death",
+      "description": "Instantly slays target if POW vs POW succeeds (or deals 3D6 HP on failure)."
+    },
+    "Shadowcat": {
+      "cost": 2,
+      "rune": "Beast",
+      "description": "Transforms the initiate into a giant shadowcat for 15 minutes."
+    },
+    "Shake Earth": {
+      "cost": 2,
+      "rune": "Earth",
+      "description": "Causes localized tremors in a 10m radius, knocking down foes (DEXx3 to stay standing)."
+    },
+    "Shield": {
+      "cost": "1+",
+      "rune": "Earth",
+      "description": "Grants +2 Armor Points and +2 Countermagic per RP spent."
+    },
+    "Slash": {
+      "cost": 1,
+      "rune": "Death",
+      "description": "Doubles the base weapon damage of a slashing axe or blade."
+    },
+    "Smash": {
+      "cost": 1,
+      "rune": "Death",
+      "description": "Doubles the base weapon damage of a crushing weapon or axe against objects/foes."
+    },
+    "Speak to Beasts (Shadowcats)": {
+      "cost": 1,
+      "rune": "Beast",
+      "description": "Allows fluent speech with shadowcats and felines."
+    },
+    "Speak to Birds": {
+      "cost": 1,
+      "rune": "Air",
+      "description": "Allows fluent speech with birds."
+    },
+    "Speak to Herd Beasts": {
+      "cost": 1,
+      "rune": "Beast",
+      "description": "Allows fluent speech with herd animals."
+    },
+    "Spell Trading": {
+      "cost": 2,
+      "rune": "Movement",
+      "description": "Allows trading a one-use Rune spell with another initiate."
+    },
+    "Spin": {
+      "cost": 1,
+      "rune": "Movement",
+      "description": "Spins target helplessly unless they resist; halves attack and parry."
+    },
+    "Spirit Guardian": {
+      "cost": "1+",
+      "rune": "Spirit",
+      "description": "Summons a protective ancestor spirit to defend the target in spirit combat."
+    },
+    "Spirit Melding": {
+      "cost": 1,
+      "rune": "Spirit",
+      "description": "Merges an allied spirit with the caster, combining POW and MP."
+    },
+    "Splatter": {
+      "cost": 1,
+      "rune": "Disorder",
+      "description": "Causes a small object or fruit to burst messily."
+    },
+    "Strongnet": {
+      "cost": 1,
+      "rune": "Water",
+      "description": "Doubles the HP and STR of a fishing or combat net."
+    },
+    "Summon Air Elemental": {
+      "cost": "1+",
+      "rune": "Air",
+      "description": "Summons an Air Elemental (1 pt = Small, 2 pts = Medium, 3 pts = Large)."
+    },
+    "Summon Ancestor": {
+      "cost": 1,
+      "rune": "Man",
+      "description": "Summons a random ancestor spirit from the caster’s lineage."
+    },
+    "Summon Bear": {
+      "cost": 1,
+      "rune": "Beast",
+      "description": "Summons a wild bear to aid the initiate."
+    },
+    "Summon Darkness Elemental": {
+      "cost": "1+",
+      "rune": "Darkness",
+      "description": "Summons a Darkness Elemental (1 pt = Small, 2 pts = Medium, 3 pts = Large)."
+    },
+    "Summon Dinosaur": {
+      "cost": 2,
+      "rune": "Earth",
+      "description": "Summons a dinosaur native to the region."
+    },
+    "Summon Earth Elemental": {
+      "cost": "1+",
+      "rune": "Earth",
+      "description": "Summons an Earth Elemental (1 pt = Small, 2 pts = Medium, 3 pts = Large)."
+    },
+    "Summon Elemental": {
+      "cost": "1+",
+      "rune": "Moon",
+      "description": "Summons an elemental of any element (1 pt = Small, 2 pts = Medium)."
+    },
+    "Summon Fire Elemental": {
+      "cost": "1+",
+      "rune": "Fire/Sky",
+      "description": "Summons a Fire Elemental (1 pt = Small, 2 pts = Medium, 3 pts = Large)."
+    },
+    "Summon Healing Spirit": {
+      "cost": 2,
+      "rune": "Harmony",
+      "description": "Summons a cult healing spirit to cure disease or wounds."
+    },
+    "Summon Lune": {
+      "cost": "1+",
+      "rune": "Moon",
+      "description": "Summons a Lune (1 pt = Small, 2 pts = Medium, 3 pts = Large)."
+    },
+    "Summon Naiad": {
+      "cost": 1,
+      "rune": "Water",
+      "description": "Summons a river nymph spirit of Engizi."
+    },
+    "Summon Shadowcat": {
+      "cost": 1,
+      "rune": "Beast",
+      "description": "Summons a shadowcat to aid the initiate."
+    },
+    "Summon Small Fire Elemental": {
+      "cost": 1,
+      "rune": "Fire/Sky",
+      "description": "Summons a Small Fire Elemental."
+    },
+    "Summon Specific Ancestor": {
+      "cost": 2,
+      "rune": "Man",
+      "description": "Summons a specific named ancestor spirit."
+    },
+    "Summon Spirit Teacher": {
+      "cost": 1,
+      "rune": "Spirit",
+      "description": "Summons a cult teaching spirit to instruct the initiate in spirit magic."
+    },
+    "Summon Water Elemental": {
+      "cost": "1+",
+      "rune": "Water",
+      "description": "Summons a Water Elemental (1 pt = Small, 2 pts = Medium, 3 pts = Large)."
+    },
+    "Sunbright": {
+      "cost": 2,
+      "rune": "Fire/Sky",
+      "description": "Blazes with miniature sunlight (50m radius), blinding Darkness creatures and dispelling shadows."
+    },
+    "Sunripen": {
+      "cost": 2,
+      "rune": "Fire/Sky",
+      "description": "Ripens crops or fruit and dries wet earth."
+    },
+    "Sunspear": {
+      "cost": 4,
+      "rune": "Fire/Sky",
+      "description": "Calls down a pillar of solar fire from the sky dealing 4D6 damage (ignores armor)."
+    },
+    "Suppress Lodril": {
+      "cost": "1+",
+      "rune": "Darkness",
+      "description": "Quenches fire and suppresses Fire/Sky magic in range."
+    },
+    "Sureshot": {
+      "cost": 1,
+      "rune": "Air",
+      "description": "Guides missile weapons so wind and range penalties are ignored (+20% hit)."
+    },
+    "Swallow": {
+      "cost": 2,
+      "rune": "Disorder",
+      "description": "Allows the Trickster to swallow an item or creature whole into a belly pocket."
+    },
+    "Sword Trance": {
+      "cost": 1,
+      "rune": "Death",
+      "description": "Increases Sword skill to 100% (or +20% per RP) while in battle trance."
+    },
+    "Teleport": {
+      "cost": 3,
+      "rune": "Air",
+      "description": "Instantly transports the caster in a flash of wind and thunder to a visible or sanctified spot."
+    },
+    "Thunderbolt": {
+      "cost": 3,
+      "rune": "Air",
+      "description": "Strikes a foe with a deafening bolt from the sky dealing 3D6 damage (ignores armor)."
+    },
+    "Translate": {
+      "cost": 1,
+      "rune": "Truth",
+      "description": "Allows the sage to speak and understand any spoken language at 80% for 15 minutes."
+    },
+    "True Axe": {
+      "cost": 1,
+      "rune": "Death",
+      "description": "Doubles the base weapon damage of a blessed 1H or 2H Axe."
+    },
+    "Truebow": {
+      "cost": 1,
+      "rune": "Fire/Sky",
+      "description": "Doubles the base weapon damage of a Composite Bow."
+    },
+    "Truespeak": {
+      "cost": 2,
+      "rune": "Truth",
+      "description": "Compels the target to speak only the literal truth for 15 minutes."
+    },
+    "Truespear": {
+      "cost": 1,
+      "rune": "Truth",
+      "description": "Doubles the base weapon damage of a 1H Spear, 2H Spear, Pike, or Lance."
+    },
+    "Truesword": {
+      "cost": 1,
+      "rune": "Death",
+      "description": "Doubles the base weapon damage of a Broadsword, Shortsword, or Greatsword."
+    },
+    "Turn Undead": {
+      "cost": 1,
+      "rune": "Death",
+      "description": "Forces undead creatures to flee or be destroyed in a POW vs POW contest."
+    },
+    "Weapon Trance": {
+      "cost": 1,
+      "rune": "Death",
+      "description": "Increases cult weapon skill to 100% (or +20% per RP) while in battle trance."
+    },
+    "Wind Warp": {
+      "cost": 2,
+      "rune": "Air",
+      "description": "Commands winds within 100m, grounding flyers and deflecting all normal missiles."
+    },
+    "Wind Words": {
+      "cost": 1,
+      "rune": "Air",
+      "description": "Carries whispered words on the wind to a listener up to 5 km away."
+    }
+  }
+}
